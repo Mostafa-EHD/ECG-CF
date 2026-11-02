@@ -1,0 +1,24 @@
+          h                                                             test     est      lo      hi      p  p_holm
+         H1    R1_signal: DIR amplitude/rhythm (ST,T,AF) - duration (QT,QRS)  0.0540  0.0021  0.1056 0.0450  0.4050
+         H1 PULSE_report: DIR amplitude/rhythm (ST,T,AF) - duration (QT,QRS) -0.2088 -0.2522 -0.1675 0.0005  0.0075
+         H1          GEM: DIR amplitude/rhythm (ST,T,AF) - duration (QT,QRS) -0.3067 -0.3502 -0.2649 0.0005  0.0075
+         H2    R1_signal: omission given influence > 10% (cluster bootstrap)  0.0069  0.0017  0.0139 1.0000  1.0000
+         H2 PULSE_report: omission given influence > 10% (cluster bootstrap)  0.6603  0.6357  0.6861 0.0002  0.0048
+         H2          GEM: omission given influence > 10% (cluster bootstrap)  0.1427  0.1192  0.1677 0.0002  0.0048
+         H3      R1_signal: new finding on controls > 5% (cluster bootstrap)  0.0243  0.0128  0.0370 1.0000  1.0000
+         H3   PULSE_report: new finding on controls > 5% (cluster bootstrap)  0.1967  0.1631  0.2330 0.0002  0.0048
+         H3            GEM: new finding on controls > 5% (cluster bootstrap)  0.0958  0.0714  0.1213 0.0002  0.0048
+         H4       Spearman(sensitivity, F1_faith) over 12 model x edit cells -0.0585     NaN     NaN 0.8567  1.0000
+H4-modality                ECG-R1 st_elev: signal 0.23 vs image 0.03 (n=100) -0.2000     NaN     NaN 0.0000  0.0008
+H4-modality                 ECG-R1 st_elev: signal 0.23 vs both 0.13 (n=100) -0.1000     NaN     NaN 0.0309  0.3088
+H4-modality                   ECG-R1 t_inv: signal 0.68 vs image 0.72 (n=98)  0.0408     NaN     NaN 0.6516  1.0000
+H4-modality                    ECG-R1 t_inv: signal 0.68 vs both 0.73 (n=98)  0.0510     NaN     NaN 0.4731  1.0000
+H4-modality                 ECG-R1 qt_long: signal 0.23 vs image 0.08 (n=78) -0.1538     NaN     NaN 0.0042  0.0460
+H4-modality                  ECG-R1 qt_long: signal 0.23 vs both 0.14 (n=78) -0.0897     NaN     NaN 0.0923  0.7383
+H4-modality                ECG-R1 qrs_wide: signal 0.74 vs image 0.74 (n=81)  0.0000     NaN     NaN 1.0000  1.0000
+H4-modality                 ECG-R1 qrs_wide: signal 0.74 vs both 0.86 (n=81)  0.1235     NaN     NaN 0.0020  0.0254
+H4-modality                      ECG-R1 af: signal 0.57 vs image 0.32 (n=93) -0.2473     NaN     NaN 0.0022  0.0263
+H4-modality                       ECG-R1 af: signal 0.57 vs both 0.80 (n=93)  0.2258     NaN     NaN 0.0000  0.0000
+    realism                 ECG-R1: ST plain 0.19 vs reciprocal 0.22 (n=259)  0.0309     NaN     NaN 0.2295  1.0000
+    realism                    GEM: ST plain 0.29 vs reciprocal 0.44 (n=258)  0.1434     NaN     NaN 0.0002  0.0044
+    realism                  PULSE: ST plain 0.86 vs reciprocal 0.59 (n=207) -0.2657     NaN     NaN 0.0000  0.0000

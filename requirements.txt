@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+neurokit2
+wfdb
+# model inference only (see inference/): torch, ms-swift (ECG-R1 fork), transformers, llava (GEM, PULSE)

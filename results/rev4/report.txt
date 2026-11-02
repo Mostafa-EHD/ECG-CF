@@ -1,0 +1,32 @@
+=== (1) ST supra-threshold edits (level 3, finding absent on original): DIR split by reading ===
+ECG-R1  PTB-XL              n=260 DIR 19% [14-24] | ischaemic 4% [2-6] | benign 14% [10-18] | unspecified 1%
+ECG-R1  PTB-XL reciprocal   n=259 DIR 22% [17-27] | ischaemic 7% [4-10] | benign 14% [9-18] | unspecified 2%
+ECG-R1  Georgia             n=150 DIR 21% [15-28] | ischaemic 13% [7-18] | benign 8% [4-13] | unspecified 1%
+ECG-R1  Georgia reciprocal  n=148 DIR 17% [11-23] | ischaemic 9% [5-14] | benign 5% [2-9] | unspecified 2%
+GEM     PTB-XL              n=259 DIR 29% [24-35] | ischaemic 26% [21-31] | benign 2% [1-4] | unspecified 1%
+GEM     PTB-XL reciprocal   n=258 DIR 44% [38-50] | ischaemic 43% [37-49] | benign 0% [0-1] | unspecified 0%
+GEM     Georgia             n=146 DIR 53% [45-62] | ischaemic 52% [44-60] | benign 1% [0-2] | unspecified 1%
+GEM     Georgia reciprocal  n=145 DIR 67% [59-74] | ischaemic 66% [58-74] | benign 1% [0-2] | unspecified 0%
+PULSE   PTB-XL              n=208 DIR 86% [81-90] | ischaemic 80% [75-86] | benign 5% [2-8] | unspecified 0%
+PULSE   PTB-XL reciprocal   n=207 DIR 59% [53-66] | ischaemic 57% [51-64] | benign 1% [0-3] | unspecified 0%
+PULSE   Georgia             n=145 DIR 79% [72-86] | ischaemic 74% [67-81] | benign 5% [1-8] | unspecified 0%
+PULSE   Georgia reciprocal  n=143 DIR 62% [55-70] | ischaemic 52% [44-61] | benign 10% [5-15] | unspecified 0%
+
+=== (2) contradiction: explanation states the edited component is normal (verified supra-threshold edit, criterion met) ===
+ECG-R1  st_elev       n=260 contradiction 97% [94-98] (v5 rule 95%) | among influenced 43/49 | among non-influenced 208/211
+ECG-R1  st_elev_orig  n=262 contradiction 100% [100-100] (v5 rule 100%)
+ECG-R1  qt_long       n=209 contradiction 79% [74-85] (v5 rule 79%) | among influenced 0/43 | among non-influenced 166/166
+ECG-R1  qt_long_orig  n=262 contradiction 100% [100-100] (v5 rule 100%)
+GEM     st_elev       n=259 contradiction 64% [58-69] (v5 rule 50%) | among influenced 15/76 | among non-influenced 150/183
+GEM     st_elev_orig  n=262 contradiction 85% [81-89] (v5 rule 29%)
+GEM     qt_long       n=206 contradiction 4% [2-7] (v5 rule 4%) | among influenced 0/166 | among non-influenced 9/40
+GEM     qt_long_orig  n=262 contradiction 16% [11-20] (v5 rule 16%)
+PULSE   st_elev       n=208 contradiction 0% [0-0] (v5 rule 0%) | among influenced 0/178 | among non-influenced 0/30
+PULSE   st_elev_orig  n=262 contradiction 0% [0-0] (v5 rule 0%)
+PULSE   qt_long       n=206 contradiction 0% [0-0] (v5 rule 0%) | among influenced 0/192 | among non-influenced 0/14
+PULSE   qt_long_orig  n=262 contradiction 0% [0-0] (v5 rule 0%)
+
+=== (3) ECG-R1 anterior ST denial sentence identical to the original's ===
+controls: 604/783 (77%)
+non-influenced supra-threshold ST edits: 79/211 (37%)
+non-influenced: anterior denial v7 208/211; anterior or global ST denial 211/211

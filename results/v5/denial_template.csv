@@ -1,0 +1,4 @@
+model,originals_deny,n_orig,noninf_deny,n_noninf,same_sentence,same_answer
+ECG-R1,262,262,208,211,79,0
+GEM,76,262,115,183,0,0
+PULSE,0,262,0,30,0,7

@@ -1,0 +1,2329 @@
+model,arm,ecg_id,I,isch,benign,unspec,deny5,deny6
+ECG-R1,PTB-XL,15737,False,False,False,False,True,True
+ECG-R1,PTB-XL,12711,False,False,False,False,True,True
+ECG-R1,PTB-XL,19670,False,False,False,False,True,True
+ECG-R1,PTB-XL,21177,False,False,False,False,True,True
+ECG-R1,PTB-XL,7597,False,False,False,False,True,True
+ECG-R1,PTB-XL,7170,False,False,False,False,True,True
+ECG-R1,PTB-XL,12475,False,False,False,False,True,True
+ECG-R1,PTB-XL,5743,False,False,False,False,True,True
+ECG-R1,PTB-XL,9164,False,False,False,False,True,True
+ECG-R1,PTB-XL,11364,False,False,False,False,True,True
+ECG-R1,PTB-XL,3043,True,False,True,False,True,True
+ECG-R1,PTB-XL,12034,False,False,False,False,True,True
+ECG-R1,PTB-XL,10970,False,False,False,False,True,True
+ECG-R1,PTB-XL,6341,False,False,False,False,True,True
+ECG-R1,PTB-XL,11884,False,False,False,False,True,True
+ECG-R1,PTB-XL,18367,False,False,False,False,True,True
+ECG-R1,PTB-XL,1700,True,False,True,False,True,True
+ECG-R1,PTB-XL,13717,False,False,False,False,True,True
+ECG-R1,PTB-XL,5298,False,False,False,False,True,True
+ECG-R1,PTB-XL,20023,False,False,False,False,True,True
+ECG-R1,PTB-XL,3537,False,False,False,False,True,True
+ECG-R1,PTB-XL,15461,False,False,False,False,True,True
+ECG-R1,PTB-XL,364,True,False,True,False,True,True
+ECG-R1,PTB-XL,15090,True,True,False,False,False,True
+ECG-R1,PTB-XL,1857,False,False,False,False,True,True
+ECG-R1,PTB-XL,15094,False,False,False,False,True,True
+ECG-R1,PTB-XL,10596,True,False,True,False,True,True
+ECG-R1,PTB-XL,10268,False,False,False,False,True,True
+ECG-R1,PTB-XL,13879,False,False,False,False,True,True
+ECG-R1,PTB-XL,12529,False,False,False,False,True,True
+ECG-R1,PTB-XL,12199,False,False,False,False,True,True
+ECG-R1,PTB-XL,13786,False,False,False,False,True,True
+ECG-R1,PTB-XL,21036,True,True,False,False,False,False
+ECG-R1,PTB-XL,3159,False,False,False,False,True,True
+ECG-R1,PTB-XL,1031,True,True,False,False,False,True
+ECG-R1,PTB-XL,1054,True,False,True,False,True,True
+ECG-R1,PTB-XL,11126,True,False,True,False,True,True
+ECG-R1,PTB-XL,18068,False,False,False,False,True,True
+ECG-R1,PTB-XL,20402,True,False,True,False,True,True
+ECG-R1,PTB-XL,17547,False,False,False,False,True,True
+ECG-R1,PTB-XL,12619,False,False,False,False,True,True
+ECG-R1,PTB-XL,5914,False,False,False,False,True,True
+ECG-R1,PTB-XL,1938,False,False,False,False,True,True
+ECG-R1,PTB-XL,14938,True,False,True,False,True,True
+ECG-R1,PTB-XL,3164,False,False,False,False,True,True
+ECG-R1,PTB-XL,19466,False,False,False,False,True,True
+ECG-R1,PTB-XL,17970,False,False,False,False,True,True
+ECG-R1,PTB-XL,1589,False,False,False,False,True,True
+ECG-R1,PTB-XL,9303,False,False,False,False,True,True
+ECG-R1,PTB-XL,13400,False,False,False,False,True,True
+ECG-R1,PTB-XL,10143,False,False,False,False,True,True
+ECG-R1,PTB-XL,11372,False,False,False,False,True,True
+ECG-R1,PTB-XL,5452,False,False,False,False,True,True
+ECG-R1,PTB-XL,13268,True,True,False,False,False,False
+ECG-R1,PTB-XL,17511,False,False,False,False,True,True
+ECG-R1,PTB-XL,20603,False,False,False,False,True,True
+ECG-R1,PTB-XL,10824,True,False,True,False,True,True
+ECG-R1,PTB-XL,6670,False,False,False,False,True,True
+ECG-R1,PTB-XL,18882,True,False,True,False,True,True
+ECG-R1,PTB-XL,18802,True,False,True,False,True,True
+ECG-R1,PTB-XL,1639,False,False,False,False,True,True
+ECG-R1,PTB-XL,8963,False,False,False,False,True,True
+ECG-R1,PTB-XL,3103,False,False,False,False,True,True
+ECG-R1,PTB-XL,17577,False,False,False,False,True,True
+ECG-R1,PTB-XL,1078,False,False,False,False,True,True
+ECG-R1,PTB-XL,14170,False,False,False,False,True,True
+ECG-R1,PTB-XL,10250,False,False,False,False,True,True
+ECG-R1,PTB-XL,14613,False,False,False,False,True,True
+ECG-R1,PTB-XL,18656,False,False,False,False,True,True
+ECG-R1,PTB-XL,10691,False,False,False,False,True,True
+ECG-R1,PTB-XL,19042,False,False,False,False,True,True
+ECG-R1,PTB-XL,14814,True,True,False,False,False,False
+ECG-R1,PTB-XL,11489,False,False,False,False,True,True
+ECG-R1,PTB-XL,19293,False,False,False,False,True,True
+ECG-R1,PTB-XL,10029,False,False,False,False,True,True
+ECG-R1,PTB-XL,16187,False,False,False,False,True,True
+ECG-R1,PTB-XL,20624,False,False,False,False,True,True
+ECG-R1,PTB-XL,4747,False,False,False,False,True,True
+ECG-R1,PTB-XL,19929,False,False,False,False,True,True
+ECG-R1,PTB-XL,10731,False,False,False,False,True,True
+ECG-R1,PTB-XL,11842,False,False,False,False,True,True
+ECG-R1,PTB-XL,13370,True,True,False,False,False,False
+ECG-R1,PTB-XL,1186,False,False,False,False,True,True
+ECG-R1,PTB-XL,16542,False,False,False,False,True,True
+ECG-R1,PTB-XL,16499,True,False,True,False,True,True
+ECG-R1,PTB-XL,15988,False,False,False,False,True,True
+ECG-R1,PTB-XL,3984,True,False,True,False,True,True
+ECG-R1,PTB-XL,2560,True,False,True,False,True,True
+ECG-R1,PTB-XL,9982,True,False,True,False,True,True
+ECG-R1,PTB-XL,18200,True,False,True,False,True,True
+ECG-R1,PTB-XL,9994,False,False,False,False,True,True
+ECG-R1,PTB-XL,7793,False,False,False,False,True,True
+ECG-R1,PTB-XL,14746,False,False,False,False,True,True
+ECG-R1,PTB-XL,1287,False,False,False,False,True,True
+ECG-R1,PTB-XL,13918,False,False,False,False,True,True
+ECG-R1,PTB-XL,15575,False,False,False,False,True,True
+ECG-R1,PTB-XL,20037,True,False,True,False,True,True
+ECG-R1,PTB-XL,1835,False,False,False,False,True,True
+ECG-R1,PTB-XL,17731,False,False,False,False,True,True
+ECG-R1,PTB-XL,18134,False,False,False,False,True,True
+ECG-R1,PTB-XL,20280,False,False,False,False,True,True
+ECG-R1,PTB-XL,19853,False,False,False,False,True,True
+ECG-R1,PTB-XL,10206,False,False,False,False,True,True
+ECG-R1,PTB-XL,13282,True,False,True,False,True,True
+ECG-R1,PTB-XL,14220,True,False,True,False,True,True
+ECG-R1,PTB-XL,7323,False,False,False,False,True,True
+ECG-R1,PTB-XL,16993,True,True,False,False,True,True
+ECG-R1,PTB-XL,8538,False,False,False,False,True,True
+ECG-R1,PTB-XL,12480,False,False,False,False,True,True
+ECG-R1,PTB-XL,7034,False,False,False,False,True,True
+ECG-R1,PTB-XL,13398,False,False,False,False,True,True
+ECG-R1,PTB-XL,10519,False,False,False,False,True,True
+ECG-R1,PTB-XL,10327,False,False,False,False,True,True
+ECG-R1,PTB-XL,17661,False,False,False,False,True,True
+ECG-R1,PTB-XL,10272,False,False,False,False,True,True
+ECG-R1,PTB-XL,12999,False,False,False,False,True,True
+ECG-R1,PTB-XL,14138,False,False,False,False,True,True
+ECG-R1,PTB-XL,19324,False,False,False,False,True,True
+ECG-R1,PTB-XL,20905,False,False,False,False,True,True
+ECG-R1,PTB-XL,18673,False,False,False,False,True,True
+ECG-R1,PTB-XL,18847,False,False,False,False,True,True
+ECG-R1,PTB-XL,3073,False,False,False,False,True,True
+ECG-R1,PTB-XL,19432,False,False,False,False,True,True
+ECG-R1,PTB-XL,10151,False,False,False,False,True,True
+ECG-R1,PTB-XL,12925,False,False,False,False,True,True
+ECG-R1,PTB-XL,10484,True,False,True,False,True,True
+ECG-R1,PTB-XL,1479,False,False,False,False,True,True
+ECG-R1,PTB-XL,19942,False,False,False,False,True,True
+ECG-R1,PTB-XL,12336,False,False,False,False,True,True
+ECG-R1,PTB-XL,14976,False,False,False,False,True,True
+ECG-R1,PTB-XL,917,False,False,False,False,True,True
+ECG-R1,PTB-XL,20117,False,False,False,False,True,True
+ECG-R1,PTB-XL,10215,False,False,False,False,True,True
+ECG-R1,PTB-XL,361,False,False,False,False,True,True
+ECG-R1,PTB-XL,18055,False,False,False,False,True,True
+ECG-R1,PTB-XL,19350,False,False,False,False,True,True
+ECG-R1,PTB-XL,15638,False,False,False,False,True,True
+ECG-R1,PTB-XL,20401,False,False,False,False,True,True
+ECG-R1,PTB-XL,795,False,False,False,False,True,True
+ECG-R1,PTB-XL,14597,True,False,True,False,True,True
+ECG-R1,PTB-XL,20523,True,False,True,False,True,True
+ECG-R1,PTB-XL,3235,False,False,False,False,True,True
+ECG-R1,PTB-XL,19077,False,False,False,False,True,True
+ECG-R1,PTB-XL,16955,False,False,False,False,True,True
+ECG-R1,PTB-XL,17593,False,False,False,False,True,True
+ECG-R1,PTB-XL,9036,False,False,False,False,True,True
+ECG-R1,PTB-XL,19867,False,False,False,False,True,True
+ECG-R1,PTB-XL,473,True,False,True,False,True,True
+ECG-R1,PTB-XL,9010,True,False,True,False,True,True
+ECG-R1,PTB-XL,19924,False,False,False,False,True,True
+ECG-R1,PTB-XL,3060,False,False,False,False,True,True
+ECG-R1,PTB-XL,14071,False,False,False,False,True,True
+ECG-R1,PTB-XL,13145,False,False,False,False,True,True
+ECG-R1,PTB-XL,14637,False,False,False,False,True,True
+ECG-R1,PTB-XL,15900,False,False,False,False,True,True
+ECG-R1,PTB-XL,12348,False,False,False,False,True,True
+ECG-R1,PTB-XL,7644,False,False,False,False,True,True
+ECG-R1,PTB-XL,17918,False,False,False,False,True,True
+ECG-R1,PTB-XL,17780,False,False,False,False,True,True
+ECG-R1,PTB-XL,13959,False,False,False,False,True,True
+ECG-R1,PTB-XL,20356,False,False,False,False,True,True
+ECG-R1,PTB-XL,8254,False,False,False,False,True,True
+ECG-R1,PTB-XL,17358,False,False,False,False,True,True
+ECG-R1,PTB-XL,16792,False,False,False,False,True,True
+ECG-R1,PTB-XL,15930,False,False,False,False,True,True
+ECG-R1,PTB-XL,12478,False,False,False,False,True,True
+ECG-R1,PTB-XL,12528,False,False,False,False,True,True
+ECG-R1,PTB-XL,15674,False,False,False,False,True,True
+ECG-R1,PTB-XL,14946,True,False,True,False,True,True
+ECG-R1,PTB-XL,18639,False,False,False,False,True,True
+ECG-R1,PTB-XL,5067,False,False,False,False,True,True
+ECG-R1,PTB-XL,13712,False,False,False,False,True,True
+ECG-R1,PTB-XL,12709,True,False,True,False,True,True
+ECG-R1,PTB-XL,8076,False,False,False,False,True,True
+ECG-R1,PTB-XL,10990,False,False,False,False,True,True
+ECG-R1,PTB-XL,15898,False,False,False,False,True,True
+ECG-R1,PTB-XL,1870,False,False,False,False,True,True
+ECG-R1,PTB-XL,13993,False,False,False,False,True,True
+ECG-R1,PTB-XL,11805,True,False,True,False,True,True
+ECG-R1,PTB-XL,12451,False,False,False,False,True,True
+ECG-R1,PTB-XL,11739,False,False,False,False,True,True
+ECG-R1,PTB-XL,14662,True,True,False,False,False,False
+ECG-R1,PTB-XL,4261,False,False,False,False,True,True
+ECG-R1,PTB-XL,11182,False,False,False,False,True,True
+ECG-R1,PTB-XL,17891,False,False,False,False,True,True
+ECG-R1,PTB-XL,6131,False,False,False,False,True,True
+ECG-R1,PTB-XL,7007,False,False,False,False,True,True
+ECG-R1,PTB-XL,11490,False,False,False,False,True,True
+ECG-R1,PTB-XL,14149,False,False,False,False,True,True
+ECG-R1,PTB-XL,8833,True,False,True,False,True,True
+ECG-R1,PTB-XL,3618,False,False,False,False,True,True
+ECG-R1,PTB-XL,11705,False,False,False,False,True,True
+ECG-R1,PTB-XL,3112,False,False,False,False,True,True
+ECG-R1,PTB-XL,11679,False,False,False,False,True,True
+ECG-R1,PTB-XL,12376,False,False,False,False,True,True
+ECG-R1,PTB-XL,14356,False,False,False,False,True,True
+ECG-R1,PTB-XL,3522,False,False,False,False,True,True
+ECG-R1,PTB-XL,18232,False,False,False,False,True,True
+ECG-R1,PTB-XL,8116,False,False,False,False,True,True
+ECG-R1,PTB-XL,9952,True,False,True,False,True,True
+ECG-R1,PTB-XL,13035,False,False,False,False,True,True
+ECG-R1,PTB-XL,18661,True,False,True,False,True,True
+ECG-R1,PTB-XL,11077,False,False,False,False,True,True
+ECG-R1,PTB-XL,16150,False,False,False,False,True,True
+ECG-R1,PTB-XL,10585,True,False,True,False,True,True
+ECG-R1,PTB-XL,12607,True,False,False,True,True,True
+ECG-R1,PTB-XL,14187,False,False,False,False,True,True
+ECG-R1,PTB-XL,18982,True,False,False,True,True,True
+ECG-R1,PTB-XL,911,False,False,False,False,True,True
+ECG-R1,PTB-XL,19723,True,False,True,False,True,True
+ECG-R1,PTB-XL,20241,False,False,False,False,True,True
+ECG-R1,PTB-XL,16407,False,False,False,False,True,True
+ECG-R1,PTB-XL,10358,False,False,False,False,True,True
+ECG-R1,PTB-XL,4900,False,False,False,False,True,True
+ECG-R1,PTB-XL,16261,True,False,True,False,True,True
+ECG-R1,PTB-XL,12699,True,False,True,False,True,True
+ECG-R1,PTB-XL,8138,False,False,False,False,True,True
+ECG-R1,PTB-XL,13349,False,False,False,False,True,True
+ECG-R1,PTB-XL,20887,False,False,False,False,True,True
+ECG-R1,PTB-XL,12886,False,False,False,False,True,True
+ECG-R1,PTB-XL,20671,False,False,False,False,True,True
+ECG-R1,PTB-XL,16024,True,False,True,False,True,True
+ECG-R1,PTB-XL,12345,False,False,False,False,True,True
+ECG-R1,PTB-XL,16780,True,True,False,False,False,False
+ECG-R1,PTB-XL,18612,False,False,False,False,True,True
+ECG-R1,PTB-XL,13971,False,False,False,False,True,True
+ECG-R1,PTB-XL,14027,False,False,False,False,True,True
+ECG-R1,PTB-XL,3986,False,False,False,False,True,True
+ECG-R1,PTB-XL,20220,False,False,False,False,False,False
+ECG-R1,PTB-XL,15959,False,False,False,False,True,True
+ECG-R1,PTB-XL,2987,False,False,False,False,True,True
+ECG-R1,PTB-XL,8170,False,False,False,False,True,True
+ECG-R1,PTB-XL,1860,False,False,False,False,True,True
+ECG-R1,PTB-XL,3521,False,False,False,False,True,True
+ECG-R1,PTB-XL,6200,False,False,False,False,True,True
+ECG-R1,PTB-XL,18175,False,False,False,False,True,True
+ECG-R1,PTB-XL,10847,False,False,False,False,False,False
+ECG-R1,PTB-XL,334,False,False,False,False,True,True
+ECG-R1,PTB-XL,19981,False,False,False,False,True,True
+ECG-R1,PTB-XL,2203,False,False,False,False,True,True
+ECG-R1,PTB-XL,18111,True,False,True,False,True,True
+ECG-R1,PTB-XL,11933,False,False,False,False,True,True
+ECG-R1,PTB-XL,15803,False,False,False,False,True,True
+ECG-R1,PTB-XL,5725,False,False,False,False,True,True
+ECG-R1,PTB-XL,20198,False,False,False,False,True,True
+ECG-R1,PTB-XL,1351,False,False,False,False,False,False
+ECG-R1,PTB-XL,14620,False,False,False,False,True,True
+ECG-R1,PTB-XL,10141,False,False,False,False,True,True
+ECG-R1,PTB-XL,17865,True,True,False,False,False,True
+ECG-R1,PTB-XL,2144,False,False,False,False,True,True
+ECG-R1,PTB-XL,14944,False,False,False,False,True,True
+ECG-R1,PTB-XL,20576,False,False,False,False,True,True
+ECG-R1,PTB-XL,10589,False,False,False,False,True,True
+ECG-R1,PTB-XL,3756,False,False,False,False,True,True
+ECG-R1,PTB-XL,17525,True,False,False,True,True,True
+ECG-R1,PTB-XL,2785,False,False,False,False,True,True
+ECG-R1,PTB-XL,12144,False,False,False,False,True,True
+ECG-R1,PTB-XL,19286,False,False,False,False,True,True
+ECG-R1,PTB-XL,16534,False,False,False,False,True,True
+ECG-R1,PTB-XL,764,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,364,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,20023,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10250,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19286,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,9952,True,False,False,True,True,True
+ECG-R1,PTB-XL reciprocal,20037,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,16407,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19350,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,17891,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,1870,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19929,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,3521,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,9036,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,20401,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,1639,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,7007,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,20402,True,False,False,True,True,True
+ECG-R1,PTB-XL reciprocal,18055,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19432,False,False,False,False,False,False
+ECG-R1,PTB-XL reciprocal,20887,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,6131,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,17918,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,14746,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,16024,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,16955,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11490,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,18656,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,16542,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,15900,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,18661,True,True,False,False,True,True
+ECG-R1,PTB-XL reciprocal,20905,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,20117,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,16150,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11933,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,1031,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12709,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,14976,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,17511,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11884,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12348,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,8963,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12451,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,18367,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,2560,True,True,False,False,True,True
+ECG-R1,PTB-XL reciprocal,20280,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,17525,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,7170,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,7793,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,20603,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,3537,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19867,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10519,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,14944,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12144,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,3164,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,18847,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,3103,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,21177,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11842,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,795,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12619,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,20576,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,15094,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19942,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,3159,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,1186,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,15575,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10824,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,17661,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13717,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,4900,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19293,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13370,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,3043,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11739,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11372,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,5298,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,20671,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,911,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,334,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,18802,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,2987,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,9164,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19466,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,3112,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,17358,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,12607,True,False,False,True,True,True
+ECG-R1,PTB-XL reciprocal,14637,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,14613,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,14356,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,18200,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,4261,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,17731,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,18639,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13993,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,7323,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,8170,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,6670,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,1938,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12475,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10484,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,10589,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13786,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,18175,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,21036,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,15674,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,14662,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,1078,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,3986,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13918,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,17577,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,10143,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10151,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,3060,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13712,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12699,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,5452,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,5067,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,9982,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,2203,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11489,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19723,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,16261,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,18111,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,8254,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,16780,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,12925,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,5725,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,4747,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,20356,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,17593,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,14027,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13398,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11077,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,1860,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,6200,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,1857,False,False,False,False,False,True
+ECG-R1,PTB-XL reciprocal,10847,False,False,False,False,False,False
+ECG-R1,PTB-XL reciprocal,10585,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,12999,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19853,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,15638,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,14187,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,3522,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,14620,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10691,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,3618,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,16993,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10215,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,16187,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10272,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13282,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13971,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,17970,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,3073,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,15930,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12528,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12336,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,20220,False,False,False,False,False,False
+ECG-R1,PTB-XL reciprocal,13400,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11182,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,5743,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,7034,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,3235,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12886,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,8538,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,15959,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12478,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11126,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,16499,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,14814,True,True,False,False,True,True
+ECG-R1,PTB-XL reciprocal,15737,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19077,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,1835,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10990,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,9303,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,473,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,1054,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,15803,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,14170,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,14597,True,False,False,True,True,True
+ECG-R1,PTB-XL reciprocal,14946,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,7597,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10970,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,17780,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,18612,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,2785,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11679,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,8076,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,1287,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10268,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13145,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,18232,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,917,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,18673,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,8833,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,10141,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11364,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,17547,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,3984,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,3756,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19981,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,361,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13035,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19324,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,12034,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19042,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,15988,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,8116,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10731,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,17865,True,True,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13879,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,9010,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,7644,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11805,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,18882,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,20523,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,18982,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12199,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10327,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,8138,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,6341,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12376,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10029,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,1589,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,16792,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,18068,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,20241,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,2144,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,15461,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,13959,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,19924,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,14149,False,False,False,False,False,False
+ECG-R1,PTB-XL reciprocal,10206,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12529,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13268,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,20624,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12345,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,20198,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,15090,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,1479,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,5914,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,1700,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,1351,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,14138,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,764,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,12480,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10596,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,16534,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,11705,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,18134,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,14071,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,9994,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,14938,True,False,True,False,True,True
+ECG-R1,PTB-XL reciprocal,15898,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,13349,False,False,False,False,True,True
+ECG-R1,PTB-XL reciprocal,10358,False,False,False,False,False,False
+ECG-R1,PTB-XL reciprocal,14220,True,True,False,False,False,False
+ECG-R1,PTB-XL reciprocal,19670,False,False,False,False,True,True
+ECG-R1,Georgia,E07209,False,False,False,False,True,True
+ECG-R1,Georgia,E09992,False,False,False,False,True,True
+ECG-R1,Georgia,E05712,False,False,False,False,True,True
+ECG-R1,Georgia,E02514,False,False,False,False,True,True
+ECG-R1,Georgia,E04403,False,False,False,False,True,True
+ECG-R1,Georgia,E03444,False,False,False,False,True,True
+ECG-R1,Georgia,E01506,True,True,False,False,False,False
+ECG-R1,Georgia,E08267,False,False,False,False,True,True
+ECG-R1,Georgia,E04529,True,False,True,False,True,True
+ECG-R1,Georgia,E09634,False,False,False,False,True,True
+ECG-R1,Georgia,E04919,False,False,False,False,True,True
+ECG-R1,Georgia,E02759,False,False,False,False,True,True
+ECG-R1,Georgia,E01617,False,False,False,False,True,True
+ECG-R1,Georgia,E03146,False,False,False,False,True,True
+ECG-R1,Georgia,E06211,False,False,False,False,True,True
+ECG-R1,Georgia,E07271,False,False,False,False,True,True
+ECG-R1,Georgia,E01562,True,True,False,False,False,False
+ECG-R1,Georgia,E08763,False,False,False,False,True,True
+ECG-R1,Georgia,E09976,False,False,False,False,True,True
+ECG-R1,Georgia,E07055,False,False,False,False,False,True
+ECG-R1,Georgia,E10017,False,False,False,False,True,True
+ECG-R1,Georgia,E03979,False,False,False,False,True,True
+ECG-R1,Georgia,E08489,False,False,False,False,True,True
+ECG-R1,Georgia,E07626,False,False,False,False,True,True
+ECG-R1,Georgia,E08014,False,False,False,False,True,True
+ECG-R1,Georgia,E06043,False,False,False,False,True,True
+ECG-R1,Georgia,E06878,False,False,False,False,True,True
+ECG-R1,Georgia,E07632,True,False,True,False,True,True
+ECG-R1,Georgia,E07929,False,False,False,False,False,True
+ECG-R1,Georgia,E00805,False,False,False,False,True,True
+ECG-R1,Georgia,E00359,False,False,False,False,True,True
+ECG-R1,Georgia,E07574,False,False,False,False,False,True
+ECG-R1,Georgia,E03668,False,False,False,False,True,True
+ECG-R1,Georgia,E01196,False,False,False,False,True,True
+ECG-R1,Georgia,E08768,False,False,False,False,True,True
+ECG-R1,Georgia,E05651,False,False,False,False,True,True
+ECG-R1,Georgia,E06668,False,False,False,False,True,True
+ECG-R1,Georgia,E04718,False,False,False,False,True,True
+ECG-R1,Georgia,E07372,True,False,True,False,True,True
+ECG-R1,Georgia,E08923,False,False,False,False,True,True
+ECG-R1,Georgia,E00290,False,False,False,False,True,True
+ECG-R1,Georgia,E00533,True,True,False,False,False,False
+ECG-R1,Georgia,E03309,False,False,False,False,True,True
+ECG-R1,Georgia,E08349,False,False,False,False,True,True
+ECG-R1,Georgia,E07518,False,False,False,False,True,True
+ECG-R1,Georgia,E02787,False,False,False,False,True,True
+ECG-R1,Georgia,E08280,True,True,False,False,False,False
+ECG-R1,Georgia,E10008,False,False,False,False,True,True
+ECG-R1,Georgia,E09360,False,False,False,False,True,True
+ECG-R1,Georgia,E08235,False,False,False,False,True,True
+ECG-R1,Georgia,E00253,False,False,False,False,True,True
+ECG-R1,Georgia,E00698,True,True,False,False,False,False
+ECG-R1,Georgia,E02818,False,False,False,False,True,True
+ECG-R1,Georgia,E02825,True,True,False,False,False,False
+ECG-R1,Georgia,E05367,False,False,False,False,False,True
+ECG-R1,Georgia,E09117,False,False,False,False,True,True
+ECG-R1,Georgia,E04883,False,False,False,False,False,True
+ECG-R1,Georgia,E00833,False,False,False,False,True,True
+ECG-R1,Georgia,E00870,False,False,False,False,True,True
+ECG-R1,Georgia,E08603,False,False,False,False,True,True
+ECG-R1,Georgia,E08495,False,False,False,False,True,True
+ECG-R1,Georgia,E08211,False,False,False,False,True,True
+ECG-R1,Georgia,E07250,False,False,False,False,True,True
+ECG-R1,Georgia,E04675,False,False,False,False,True,True
+ECG-R1,Georgia,E08218,False,False,False,False,True,True
+ECG-R1,Georgia,E03115,True,False,True,False,True,True
+ECG-R1,Georgia,E08287,True,False,True,False,True,True
+ECG-R1,Georgia,E02560,True,False,True,False,True,True
+ECG-R1,Georgia,E07825,False,False,False,False,True,True
+ECG-R1,Georgia,E09002,False,False,False,False,True,True
+ECG-R1,Georgia,E03022,False,False,False,False,True,True
+ECG-R1,Georgia,E07631,False,False,False,False,True,True
+ECG-R1,Georgia,E04179,False,False,False,False,True,True
+ECG-R1,Georgia,E07752,False,False,False,False,True,True
+ECG-R1,Georgia,E05605,False,False,False,False,True,True
+ECG-R1,Georgia,E05380,False,False,False,False,True,True
+ECG-R1,Georgia,E08895,False,False,False,False,True,True
+ECG-R1,Georgia,E00345,False,False,False,False,True,True
+ECG-R1,Georgia,E03288,False,False,False,False,False,False
+ECG-R1,Georgia,E04928,True,False,False,True,True,True
+ECG-R1,Georgia,E08841,True,True,False,False,False,False
+ECG-R1,Georgia,E07775,False,False,False,False,True,True
+ECG-R1,Georgia,E01658,False,False,False,False,True,True
+ECG-R1,Georgia,E07011,False,False,False,False,True,True
+ECG-R1,Georgia,E02602,False,False,False,False,True,True
+ECG-R1,Georgia,E04693,True,True,False,False,False,False
+ECG-R1,Georgia,E03448,False,False,False,False,True,True
+ECG-R1,Georgia,E02951,False,False,False,False,True,True
+ECG-R1,Georgia,E06186,False,False,False,False,True,True
+ECG-R1,Georgia,E06780,False,False,False,False,True,True
+ECG-R1,Georgia,E08050,False,False,False,False,False,True
+ECG-R1,Georgia,E04424,False,False,False,False,True,True
+ECG-R1,Georgia,E09256,False,False,False,False,True,True
+ECG-R1,Georgia,E07687,False,False,False,False,True,True
+ECG-R1,Georgia,E00343,True,False,True,False,True,True
+ECG-R1,Georgia,E10069,True,True,False,False,False,False
+ECG-R1,Georgia,E09003,False,False,False,False,True,True
+ECG-R1,Georgia,E05799,False,False,False,False,True,True
+ECG-R1,Georgia,E03464,True,True,False,False,False,False
+ECG-R1,Georgia,E08080,False,False,False,False,True,True
+ECG-R1,Georgia,E07215,True,True,False,False,False,False
+ECG-R1,Georgia,E04807,True,False,True,False,True,True
+ECG-R1,Georgia,E09975,True,False,True,False,True,True
+ECG-R1,Georgia,E08290,False,False,False,False,True,True
+ECG-R1,Georgia,E01641,False,False,False,False,True,True
+ECG-R1,Georgia,E02418,False,False,False,False,True,True
+ECG-R1,Georgia,E03047,False,False,False,False,True,True
+ECG-R1,Georgia,E07966,False,False,False,False,True,True
+ECG-R1,Georgia,E00304,False,False,False,False,True,True
+ECG-R1,Georgia,E09212,True,True,False,False,True,True
+ECG-R1,Georgia,E02400,False,False,False,False,True,True
+ECG-R1,Georgia,E07392,False,False,False,False,True,True
+ECG-R1,Georgia,E02308,False,False,False,False,True,True
+ECG-R1,Georgia,E06781,True,True,False,False,False,False
+ECG-R1,Georgia,E08167,False,False,False,False,True,True
+ECG-R1,Georgia,E05638,False,False,False,False,True,True
+ECG-R1,Georgia,E07530,False,False,False,False,True,True
+ECG-R1,Georgia,E03294,False,False,False,False,True,True
+ECG-R1,Georgia,E01042,False,False,False,False,True,True
+ECG-R1,Georgia,E04419,False,False,False,False,True,True
+ECG-R1,Georgia,E03163,False,False,False,False,True,True
+ECG-R1,Georgia,E01933,False,False,False,False,True,True
+ECG-R1,Georgia,E08994,False,False,False,False,True,True
+ECG-R1,Georgia,E08462,False,False,False,False,True,True
+ECG-R1,Georgia,E07177,False,False,False,False,True,True
+ECG-R1,Georgia,E07051,False,False,False,False,True,True
+ECG-R1,Georgia,E05527,False,False,False,False,True,True
+ECG-R1,Georgia,E00674,False,False,False,False,True,True
+ECG-R1,Georgia,E05231,False,False,False,False,True,True
+ECG-R1,Georgia,E04706,True,True,False,False,False,False
+ECG-R1,Georgia,E09912,False,False,False,False,True,True
+ECG-R1,Georgia,E01461,True,True,False,False,False,False
+ECG-R1,Georgia,E07550,False,False,False,False,True,True
+ECG-R1,Georgia,E04453,False,False,False,False,True,True
+ECG-R1,Georgia,E10170,True,True,False,False,False,False
+ECG-R1,Georgia,E08004,False,False,False,False,True,True
+ECG-R1,Georgia,E01677,False,False,False,False,True,True
+ECG-R1,Georgia,E08607,True,False,True,False,True,True
+ECG-R1,Georgia,E00039,False,False,False,False,True,True
+ECG-R1,Georgia,E07132,False,False,False,False,True,True
+ECG-R1,Georgia,E08556,True,False,True,False,True,True
+ECG-R1,Georgia,E08354,False,False,False,False,True,True
+ECG-R1,Georgia,E09972,False,False,False,False,True,True
+ECG-R1,Georgia,E02155,True,True,False,False,True,True
+ECG-R1,Georgia,E03995,True,True,False,False,False,False
+ECG-R1,Georgia,E03013,False,False,False,False,False,True
+ECG-R1,Georgia,E07480,False,False,False,False,True,True
+ECG-R1,Georgia,E00046,True,False,True,False,True,True
+ECG-R1,Georgia,E09879,True,True,False,False,False,False
+ECG-R1,Georgia,E08695,False,False,False,False,False,True
+ECG-R1,Georgia reciprocal,E07209,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E09992,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E05712,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E02514,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E04403,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E03444,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E01506,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08267,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E04529,True,False,True,False,True,True
+ECG-R1,Georgia reciprocal,E09634,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E04919,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E02759,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E01617,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E03146,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E06211,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07271,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E01562,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08763,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E09976,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07055,True,True,False,False,True,True
+ECG-R1,Georgia reciprocal,E10017,True,False,True,False,True,True
+ECG-R1,Georgia reciprocal,E03979,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08489,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07626,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08014,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E06043,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E06878,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07632,True,False,True,False,True,True
+ECG-R1,Georgia reciprocal,E07929,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E00805,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E00359,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07574,True,True,False,False,False,True
+ECG-R1,Georgia reciprocal,E03668,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E01196,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08768,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E05651,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E06668,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E04718,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07372,True,False,True,False,True,True
+ECG-R1,Georgia reciprocal,E08923,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E00290,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E00533,True,True,False,False,False,False
+ECG-R1,Georgia reciprocal,E03309,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08349,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07518,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E02787,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08280,True,True,False,False,False,True
+ECG-R1,Georgia reciprocal,E10008,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E09360,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08235,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E00253,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E00698,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E02818,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E02825,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E05367,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E09117,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E04883,True,True,False,False,False,True
+ECG-R1,Georgia reciprocal,E00833,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E00870,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08603,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08495,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08211,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07250,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E04675,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08218,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E03115,True,False,False,True,True,True
+ECG-R1,Georgia reciprocal,E08287,True,False,False,True,True,True
+ECG-R1,Georgia reciprocal,E02560,True,True,False,False,False,False
+ECG-R1,Georgia reciprocal,E07825,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E09002,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E03022,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07631,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E04179,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07752,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E05605,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E05380,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08895,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E00345,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E03288,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E04928,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08841,True,False,True,False,True,True
+ECG-R1,Georgia reciprocal,E07775,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E01658,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07011,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E02602,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E04693,True,True,False,False,True,True
+ECG-R1,Georgia reciprocal,E03448,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E02951,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E06186,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E06780,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08050,False,False,False,False,False,True
+ECG-R1,Georgia reciprocal,E04424,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E09256,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07687,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E00343,True,False,False,True,True,True
+ECG-R1,Georgia reciprocal,E10069,True,True,False,False,False,False
+ECG-R1,Georgia reciprocal,E09003,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E05799,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E03464,True,True,False,False,False,False
+ECG-R1,Georgia reciprocal,E08080,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07215,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E09975,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08290,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E01641,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E02418,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E03047,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07966,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E00304,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E09212,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E02400,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07392,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E02308,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E06781,True,True,False,False,True,False
+ECG-R1,Georgia reciprocal,E08167,False,False,False,False,False,False
+ECG-R1,Georgia reciprocal,E05638,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07530,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E03294,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E01042,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E04419,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E03163,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E01933,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08994,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08462,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07177,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07051,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E05527,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E00674,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E05231,True,False,True,False,True,True
+ECG-R1,Georgia reciprocal,E04706,True,False,True,False,True,True
+ECG-R1,Georgia reciprocal,E09912,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E01461,True,True,False,False,False,False
+ECG-R1,Georgia reciprocal,E07550,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E04453,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08004,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E01677,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08607,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E00039,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E07132,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E08556,True,False,True,False,True,True
+ECG-R1,Georgia reciprocal,E08354,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E09972,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E02155,True,True,False,False,False,True
+ECG-R1,Georgia reciprocal,E03995,True,True,False,False,False,False
+ECG-R1,Georgia reciprocal,E03013,False,False,False,False,False,True
+ECG-R1,Georgia reciprocal,E07480,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E00046,False,False,False,False,True,True
+ECG-R1,Georgia reciprocal,E09879,True,True,False,False,False,False
+ECG-R1,Georgia reciprocal,E08695,False,False,False,False,True,True
+GEM,PTB-XL,15737,False,False,False,False,True,True
+GEM,PTB-XL,12711,False,False,False,False,True,True
+GEM,PTB-XL,19670,False,False,False,False,True,True
+GEM,PTB-XL,21177,False,False,False,False,False,True
+GEM,PTB-XL,7597,True,True,False,False,False,False
+GEM,PTB-XL,7170,False,False,False,False,True,True
+GEM,PTB-XL,12475,False,False,False,False,True,True
+GEM,PTB-XL,5743,False,False,False,False,True,True
+GEM,PTB-XL,9164,True,True,False,False,False,False
+GEM,PTB-XL,11364,False,False,False,False,True,True
+GEM,PTB-XL,3043,False,False,False,False,True,True
+GEM,PTB-XL,12034,False,False,False,False,False,True
+GEM,PTB-XL,10970,True,True,False,False,False,False
+GEM,PTB-XL,6341,False,False,False,False,False,False
+GEM,PTB-XL,11884,False,False,False,False,True,True
+GEM,PTB-XL,18367,False,False,False,False,True,True
+GEM,PTB-XL,1700,True,True,False,False,False,False
+GEM,PTB-XL,13717,False,False,False,False,True,True
+GEM,PTB-XL,5298,True,True,False,False,False,False
+GEM,PTB-XL,20023,False,False,False,False,False,True
+GEM,PTB-XL,3537,True,True,False,False,False,False
+GEM,PTB-XL,15461,False,False,False,False,False,False
+GEM,PTB-XL,15090,False,False,False,False,True,True
+GEM,PTB-XL,1857,True,True,False,False,False,False
+GEM,PTB-XL,15094,True,False,True,False,False,True
+GEM,PTB-XL,10596,False,False,False,False,True,True
+GEM,PTB-XL,10268,False,False,False,False,False,True
+GEM,PTB-XL,13879,True,True,False,False,False,False
+GEM,PTB-XL,12529,True,True,False,False,False,False
+GEM,PTB-XL,12199,False,False,False,False,True,True
+GEM,PTB-XL,13786,True,True,False,False,False,False
+GEM,PTB-XL,21036,False,False,False,False,False,False
+GEM,PTB-XL,3159,False,False,False,False,False,False
+GEM,PTB-XL,1031,False,False,False,False,True,True
+GEM,PTB-XL,1054,False,False,False,False,True,True
+GEM,PTB-XL,11126,False,False,False,False,False,False
+GEM,PTB-XL,18068,True,True,False,False,False,False
+GEM,PTB-XL,20402,False,False,False,False,True,True
+GEM,PTB-XL,17547,False,False,False,False,False,True
+GEM,PTB-XL,12619,False,False,False,False,False,False
+GEM,PTB-XL,5914,True,True,False,False,False,False
+GEM,PTB-XL,1938,False,False,False,False,False,True
+GEM,PTB-XL,14938,False,False,False,False,True,True
+GEM,PTB-XL,3164,False,False,False,False,True,True
+GEM,PTB-XL,19466,True,True,False,False,False,False
+GEM,PTB-XL,17970,False,False,False,False,True,True
+GEM,PTB-XL,1589,True,True,False,False,False,False
+GEM,PTB-XL,9303,False,False,False,False,False,False
+GEM,PTB-XL,13400,False,False,False,False,True,True
+GEM,PTB-XL,10143,False,False,False,False,True,True
+GEM,PTB-XL,11372,True,True,False,False,False,False
+GEM,PTB-XL,5452,False,False,False,False,False,True
+GEM,PTB-XL,13268,False,False,False,False,True,True
+GEM,PTB-XL,17511,True,True,False,False,True,False
+GEM,PTB-XL,20603,False,False,False,False,False,False
+GEM,PTB-XL,10824,False,False,False,False,True,True
+GEM,PTB-XL,6670,False,False,False,False,False,True
+GEM,PTB-XL,18882,False,False,False,False,False,False
+GEM,PTB-XL,18802,False,False,False,False,False,False
+GEM,PTB-XL,1639,False,False,False,False,True,True
+GEM,PTB-XL,8963,False,False,False,False,False,False
+GEM,PTB-XL,3103,True,True,False,False,False,False
+GEM,PTB-XL,17577,True,False,False,True,False,False
+GEM,PTB-XL,1078,True,True,False,False,False,False
+GEM,PTB-XL,14170,False,False,False,False,True,True
+GEM,PTB-XL,10250,False,False,False,False,False,True
+GEM,PTB-XL,14613,True,True,False,False,True,True
+GEM,PTB-XL,18656,False,False,False,False,False,False
+GEM,PTB-XL,10691,False,False,False,False,True,True
+GEM,PTB-XL,19042,False,False,False,False,False,True
+GEM,PTB-XL,14814,False,False,False,False,True,True
+GEM,PTB-XL,11489,False,False,False,False,True,True
+GEM,PTB-XL,19293,False,False,False,False,False,False
+GEM,PTB-XL,10029,True,True,False,False,False,False
+GEM,PTB-XL,16187,False,False,False,False,False,True
+GEM,PTB-XL,20624,False,False,False,False,True,True
+GEM,PTB-XL,4747,False,False,False,False,False,False
+GEM,PTB-XL,19929,True,True,False,False,False,False
+GEM,PTB-XL,10731,False,False,False,False,False,True
+GEM,PTB-XL,11842,True,True,False,False,False,False
+GEM,PTB-XL,13370,False,False,False,False,True,True
+GEM,PTB-XL,1186,False,False,False,False,False,False
+GEM,PTB-XL,16542,False,False,False,False,True,True
+GEM,PTB-XL,16499,False,False,False,False,False,False
+GEM,PTB-XL,15988,True,True,False,False,False,False
+GEM,PTB-XL,3984,True,True,False,False,False,False
+GEM,PTB-XL,2560,False,False,False,False,True,True
+GEM,PTB-XL,9982,False,False,False,False,True,True
+GEM,PTB-XL,18200,False,False,False,False,True,True
+GEM,PTB-XL,9994,True,True,False,False,False,False
+GEM,PTB-XL,7793,True,True,False,False,False,False
+GEM,PTB-XL,14746,False,False,False,False,True,True
+GEM,PTB-XL,1287,False,False,False,False,True,True
+GEM,PTB-XL,13918,False,False,False,False,True,True
+GEM,PTB-XL,15575,False,False,False,False,False,True
+GEM,PTB-XL,20037,True,True,False,False,False,False
+GEM,PTB-XL,1835,False,False,False,False,False,True
+GEM,PTB-XL,17731,True,True,False,False,False,False
+GEM,PTB-XL,18134,True,True,False,False,False,False
+GEM,PTB-XL,20280,True,True,False,False,False,False
+GEM,PTB-XL,19853,False,False,False,False,False,False
+GEM,PTB-XL,10206,False,False,False,False,True,True
+GEM,PTB-XL,13282,True,True,False,False,False,False
+GEM,PTB-XL,14220,False,False,False,False,True,True
+GEM,PTB-XL,7323,False,False,False,False,True,True
+GEM,PTB-XL,16993,True,True,False,False,False,False
+GEM,PTB-XL,8538,False,False,False,False,True,True
+GEM,PTB-XL,12480,False,False,False,False,True,True
+GEM,PTB-XL,7034,False,False,False,False,False,True
+GEM,PTB-XL,13398,False,False,False,False,True,True
+GEM,PTB-XL,10519,False,False,False,False,True,True
+GEM,PTB-XL,10327,False,False,False,False,False,True
+GEM,PTB-XL,17661,False,False,False,False,False,True
+GEM,PTB-XL,10272,True,True,False,False,False,False
+GEM,PTB-XL,12999,True,True,False,False,True,True
+GEM,PTB-XL,14138,False,False,False,False,True,False
+GEM,PTB-XL,19324,False,False,False,False,False,True
+GEM,PTB-XL,20905,True,True,False,False,False,False
+GEM,PTB-XL,18673,False,False,False,False,True,True
+GEM,PTB-XL,18847,False,False,False,False,False,False
+GEM,PTB-XL,3073,False,False,False,False,False,True
+GEM,PTB-XL,19432,True,True,False,False,False,False
+GEM,PTB-XL,10151,False,False,False,False,True,True
+GEM,PTB-XL,12925,True,True,False,False,False,False
+GEM,PTB-XL,10484,False,False,False,False,True,True
+GEM,PTB-XL,1479,False,False,False,False,True,True
+GEM,PTB-XL,19942,False,False,False,False,True,True
+GEM,PTB-XL,12336,False,False,False,False,True,True
+GEM,PTB-XL,14976,False,False,False,False,False,False
+GEM,PTB-XL,917,False,False,False,False,False,True
+GEM,PTB-XL,20117,False,False,False,False,True,True
+GEM,PTB-XL,10215,False,False,False,False,False,True
+GEM,PTB-XL,361,True,True,False,False,False,False
+GEM,PTB-XL,18055,False,False,False,False,True,True
+GEM,PTB-XL,19350,False,False,False,False,True,True
+GEM,PTB-XL,15638,True,True,False,False,True,True
+GEM,PTB-XL,20401,True,True,False,False,True,True
+GEM,PTB-XL,795,True,True,False,False,True,True
+GEM,PTB-XL,14597,False,False,False,False,True,True
+GEM,PTB-XL,20523,False,False,False,False,True,True
+GEM,PTB-XL,3235,True,True,False,False,True,True
+GEM,PTB-XL,19077,False,False,False,False,True,True
+GEM,PTB-XL,16955,True,True,False,False,True,True
+GEM,PTB-XL,17593,False,False,False,False,True,True
+GEM,PTB-XL,9036,False,False,False,False,True,True
+GEM,PTB-XL,19867,False,False,False,False,True,True
+GEM,PTB-XL,473,False,False,False,False,True,True
+GEM,PTB-XL,9010,False,False,False,False,True,True
+GEM,PTB-XL,19924,False,False,False,False,False,True
+GEM,PTB-XL,3060,True,True,False,False,False,False
+GEM,PTB-XL,14071,True,True,False,False,False,False
+GEM,PTB-XL,13145,False,False,False,False,False,False
+GEM,PTB-XL,14637,False,False,False,False,False,False
+GEM,PTB-XL,15900,True,True,False,False,False,False
+GEM,PTB-XL,12348,False,False,False,False,True,True
+GEM,PTB-XL,7644,False,False,False,False,True,True
+GEM,PTB-XL,17918,False,False,False,False,True,True
+GEM,PTB-XL,17780,True,True,False,False,False,False
+GEM,PTB-XL,13959,False,False,False,False,True,True
+GEM,PTB-XL,20356,False,False,False,False,False,True
+GEM,PTB-XL,8254,False,False,False,False,False,False
+GEM,PTB-XL,17358,True,True,False,False,True,True
+GEM,PTB-XL,16792,False,False,False,False,True,True
+GEM,PTB-XL,15930,False,False,False,False,False,True
+GEM,PTB-XL,12478,False,False,False,False,True,True
+GEM,PTB-XL,12528,False,False,False,False,True,True
+GEM,PTB-XL,15674,True,True,False,False,False,False
+GEM,PTB-XL,14946,False,False,False,False,False,False
+GEM,PTB-XL,18639,False,False,False,False,False,False
+GEM,PTB-XL,5067,True,True,False,False,False,False
+GEM,PTB-XL,13712,True,True,False,False,False,False
+GEM,PTB-XL,12709,False,False,False,False,True,True
+GEM,PTB-XL,8076,False,False,False,False,True,True
+GEM,PTB-XL,10990,True,True,False,False,False,False
+GEM,PTB-XL,15898,False,False,False,False,True,True
+GEM,PTB-XL,1870,False,False,False,False,False,True
+GEM,PTB-XL,13993,False,False,False,False,True,True
+GEM,PTB-XL,11805,True,True,False,False,False,False
+GEM,PTB-XL,12451,False,False,False,False,True,True
+GEM,PTB-XL,11739,False,False,False,False,True,True
+GEM,PTB-XL,14662,False,False,False,False,True,True
+GEM,PTB-XL,4261,True,True,False,False,True,True
+GEM,PTB-XL,11182,False,False,False,False,False,True
+GEM,PTB-XL,17891,True,False,True,False,True,True
+GEM,PTB-XL,6131,True,True,False,False,False,False
+GEM,PTB-XL,7007,True,True,False,False,False,False
+GEM,PTB-XL,11490,False,False,False,False,True,True
+GEM,PTB-XL,14149,False,False,False,False,True,True
+GEM,PTB-XL,8833,False,False,False,False,True,True
+GEM,PTB-XL,3618,False,False,False,False,False,False
+GEM,PTB-XL,11705,False,False,False,False,True,True
+GEM,PTB-XL,3112,False,False,False,False,True,True
+GEM,PTB-XL,11679,False,False,False,False,True,True
+GEM,PTB-XL,12376,False,False,False,False,False,True
+GEM,PTB-XL,14356,True,False,True,False,True,True
+GEM,PTB-XL,3522,False,False,False,False,True,True
+GEM,PTB-XL,18232,False,False,False,False,False,True
+GEM,PTB-XL,8116,True,True,False,False,False,False
+GEM,PTB-XL,9952,True,False,True,False,False,False
+GEM,PTB-XL,13035,False,False,False,False,True,True
+GEM,PTB-XL,18661,True,True,False,False,False,False
+GEM,PTB-XL,11077,False,False,False,False,True,True
+GEM,PTB-XL,16150,False,False,False,False,False,False
+GEM,PTB-XL,10585,False,False,False,False,True,True
+GEM,PTB-XL,12607,True,True,False,False,False,False
+GEM,PTB-XL,14187,False,False,False,False,True,True
+GEM,PTB-XL,18982,False,False,False,False,True,True
+GEM,PTB-XL,911,False,False,False,False,False,True
+GEM,PTB-XL,19723,False,False,False,False,True,True
+GEM,PTB-XL,20241,True,True,False,False,False,False
+GEM,PTB-XL,16407,True,True,False,False,True,True
+GEM,PTB-XL,10358,True,True,False,False,False,False
+GEM,PTB-XL,4900,False,False,False,False,True,True
+GEM,PTB-XL,16261,False,False,False,False,False,False
+GEM,PTB-XL,12699,False,False,False,False,False,True
+GEM,PTB-XL,8138,False,False,False,False,False,False
+GEM,PTB-XL,13349,False,False,False,False,True,True
+GEM,PTB-XL,20887,False,False,False,False,True,True
+GEM,PTB-XL,12886,False,False,False,False,True,True
+GEM,PTB-XL,20671,False,False,False,False,True,True
+GEM,PTB-XL,16024,False,False,False,False,True,True
+GEM,PTB-XL,12345,False,False,False,False,True,True
+GEM,PTB-XL,16780,True,True,False,False,False,False
+GEM,PTB-XL,18612,True,True,False,False,False,False
+GEM,PTB-XL,13971,False,False,False,False,True,True
+GEM,PTB-XL,14027,False,False,False,False,True,True
+GEM,PTB-XL,3986,False,False,False,False,False,True
+GEM,PTB-XL,20220,False,False,False,False,True,True
+GEM,PTB-XL,15959,True,True,False,False,False,False
+GEM,PTB-XL,2987,False,False,False,False,False,True
+GEM,PTB-XL,8170,False,False,False,False,True,True
+GEM,PTB-XL,1860,True,False,True,False,False,False
+GEM,PTB-XL,3521,False,False,False,False,True,True
+GEM,PTB-XL,6200,True,False,True,False,True,True
+GEM,PTB-XL,18175,False,False,False,False,False,True
+GEM,PTB-XL,10847,False,False,False,False,False,True
+GEM,PTB-XL,334,True,True,False,False,True,True
+GEM,PTB-XL,19981,False,False,False,False,False,True
+GEM,PTB-XL,2203,False,False,False,False,True,True
+GEM,PTB-XL,18111,False,False,False,False,True,True
+GEM,PTB-XL,11933,False,False,False,False,True,True
+GEM,PTB-XL,15803,False,False,False,False,True,True
+GEM,PTB-XL,5725,False,False,False,False,False,False
+GEM,PTB-XL,20198,True,False,False,True,False,False
+GEM,PTB-XL,1351,False,False,False,False,False,False
+GEM,PTB-XL,14620,False,False,False,False,True,True
+GEM,PTB-XL,10141,False,False,False,False,False,False
+GEM,PTB-XL,17865,False,False,False,False,True,True
+GEM,PTB-XL,2144,False,False,False,False,False,False
+GEM,PTB-XL,14944,False,False,False,False,True,True
+GEM,PTB-XL,20576,True,True,False,False,False,False
+GEM,PTB-XL,10589,False,False,False,False,True,True
+GEM,PTB-XL,3756,False,False,False,False,False,True
+GEM,PTB-XL,17525,False,False,False,False,True,True
+GEM,PTB-XL,2785,True,True,False,False,False,False
+GEM,PTB-XL,12144,False,False,False,False,True,True
+GEM,PTB-XL,19286,False,False,False,False,True,True
+GEM,PTB-XL,16534,False,False,False,False,True,True
+GEM,PTB-XL,764,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,20023,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,10250,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,19286,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,9952,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,20037,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,16407,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,19350,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,17891,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,1870,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,19929,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,3521,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,9036,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,20401,True,False,False,True,False,False
+GEM,PTB-XL reciprocal,1639,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,7007,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,20402,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,18055,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,19432,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,20887,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,6131,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,17918,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,14746,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,16024,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,16955,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,11490,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,18656,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,16542,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,15900,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,18661,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,20905,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,20117,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,16150,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,11933,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,1031,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,12709,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,14976,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,17511,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,11884,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,12348,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,8963,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,12451,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,18367,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,2560,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,20280,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,17525,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,7170,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,7793,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,20603,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,3537,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,19867,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,10519,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,14944,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,12144,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,3164,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,18847,True,True,False,False,False,True
+GEM,PTB-XL reciprocal,3103,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,21177,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,11842,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,795,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,12619,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,20576,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,15094,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,19942,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,3159,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,1186,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,15575,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,10824,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,17661,False,False,False,False,False,True
+GEM,PTB-XL reciprocal,13717,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,4900,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,19293,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,13370,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,3043,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,11739,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,11372,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,5298,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,20671,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,911,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,334,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,18802,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,2987,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,9164,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,19466,False,False,False,False,False,True
+GEM,PTB-XL reciprocal,3112,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,17358,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,12607,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,14637,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,14613,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,14356,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,18200,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,4261,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,17731,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,18639,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,13993,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,7323,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,8170,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,6670,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,1938,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,12475,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,10484,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,10589,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,13786,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,18175,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,21036,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,15674,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,14662,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,1078,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,3986,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,13918,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,17577,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,10143,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,10151,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,3060,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,13712,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,12699,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,5452,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,5067,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,9982,True,True,False,False,True,False
+GEM,PTB-XL reciprocal,2203,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,11489,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,19723,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,16261,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,18111,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,8254,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,16780,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,12925,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,5725,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,4747,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,20356,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,17593,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,14027,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,13398,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,11077,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,1860,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,6200,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,1857,True,False,True,False,True,True
+GEM,PTB-XL reciprocal,10847,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,10585,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,12999,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,19853,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,15638,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,14187,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,3522,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,14620,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,10691,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,3618,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,16993,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,10215,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,16187,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,10272,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,13282,True,True,False,False,True,False
+GEM,PTB-XL reciprocal,13971,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,17970,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,3073,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,15930,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,12528,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,12336,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,20220,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,13400,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,11182,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,5743,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,7034,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,3235,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,12886,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,8538,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,15959,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,12478,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,11126,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,16499,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,14814,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,15737,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,19077,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,1835,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,10990,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,9303,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,473,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,1054,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,15803,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,14170,False,False,False,False,True,False
+GEM,PTB-XL reciprocal,14597,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,14946,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,7597,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,10970,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,17780,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,18612,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,2785,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,11679,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,8076,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,1287,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,10268,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,13145,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,18232,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,917,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,18673,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,8833,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,10141,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,11364,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,17547,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,3984,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,3756,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,19981,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,361,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,13035,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,19324,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,12034,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,19042,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,15988,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,8116,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,10731,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,17865,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,13879,True,True,False,False,False,True
+GEM,PTB-XL reciprocal,9010,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,7644,False,False,False,False,True,False
+GEM,PTB-XL reciprocal,11805,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,18882,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,20523,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,18982,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,12199,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,10327,False,False,False,False,False,True
+GEM,PTB-XL reciprocal,8138,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,6341,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,12376,False,False,False,False,False,True
+GEM,PTB-XL reciprocal,10029,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,1589,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,16792,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,18068,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,20241,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,2144,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,15461,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,13959,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,19924,False,False,False,False,False,True
+GEM,PTB-XL reciprocal,14149,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,10206,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,12529,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,13268,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,20624,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,12345,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,20198,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,15090,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,1479,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,5914,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,1700,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,1351,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,14138,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,764,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,12480,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,10596,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,16534,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,11705,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,18134,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,14071,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,9994,True,True,False,False,True,True
+GEM,PTB-XL reciprocal,14938,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,15898,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,13349,False,False,False,False,False,False
+GEM,PTB-XL reciprocal,10358,True,True,False,False,False,False
+GEM,PTB-XL reciprocal,14220,False,False,False,False,True,True
+GEM,PTB-XL reciprocal,19670,False,False,False,False,True,True
+GEM,Georgia,E07209,True,True,False,False,False,False
+GEM,Georgia,E09992,True,True,False,False,False,False
+GEM,Georgia,E05712,True,True,False,False,True,True
+GEM,Georgia,E02514,True,True,False,False,False,False
+GEM,Georgia,E04403,True,True,False,False,False,False
+GEM,Georgia,E03444,False,False,False,False,True,True
+GEM,Georgia,E01506,True,True,False,False,True,False
+GEM,Georgia,E08267,False,False,False,False,True,True
+GEM,Georgia,E04529,True,True,False,False,False,False
+GEM,Georgia,E09634,True,True,False,False,False,False
+GEM,Georgia,E04919,False,False,False,False,False,False
+GEM,Georgia,E02759,True,True,False,False,False,False
+GEM,Georgia,E01617,True,True,False,False,False,False
+GEM,Georgia,E03146,True,True,False,False,False,False
+GEM,Georgia,E06211,False,False,False,False,False,False
+GEM,Georgia,E07271,True,True,False,False,False,False
+GEM,Georgia,E01562,True,True,False,False,False,False
+GEM,Georgia,E08763,True,True,False,False,True,True
+GEM,Georgia,E09976,True,True,False,False,False,False
+GEM,Georgia,E07055,False,False,False,False,True,True
+GEM,Georgia,E03979,False,False,False,False,True,True
+GEM,Georgia,E08489,False,False,False,False,True,True
+GEM,Georgia,E07626,True,True,False,False,False,False
+GEM,Georgia,E08014,False,False,False,False,False,False
+GEM,Georgia,E06043,True,True,False,False,False,False
+GEM,Georgia,E06878,True,True,False,False,True,True
+GEM,Georgia,E07632,True,True,False,False,False,False
+GEM,Georgia,E07929,True,True,False,False,False,False
+GEM,Georgia,E00805,True,True,False,False,False,False
+GEM,Georgia,E00359,False,False,False,False,True,True
+GEM,Georgia,E07574,False,False,False,False,True,True
+GEM,Georgia,E03668,True,True,False,False,False,False
+GEM,Georgia,E01196,False,False,False,False,True,True
+GEM,Georgia,E08768,True,True,False,False,False,False
+GEM,Georgia,E05651,False,False,False,False,False,True
+GEM,Georgia,E06668,False,False,False,False,False,False
+GEM,Georgia,E04718,True,False,False,True,True,True
+GEM,Georgia,E07372,True,True,False,False,True,True
+GEM,Georgia,E08923,True,True,False,False,False,False
+GEM,Georgia,E00290,True,True,False,False,False,False
+GEM,Georgia,E00533,True,True,False,False,False,False
+GEM,Georgia,E03309,True,True,False,False,False,False
+GEM,Georgia,E08349,True,True,False,False,False,False
+GEM,Georgia,E07518,False,False,False,False,True,True
+GEM,Georgia,E02787,True,True,False,False,False,False
+GEM,Georgia,E08280,False,False,False,False,False,False
+GEM,Georgia,E10008,True,True,False,False,False,False
+GEM,Georgia,E09360,False,False,False,False,True,True
+GEM,Georgia,E08235,False,False,False,False,False,False
+GEM,Georgia,E00253,True,True,False,False,False,False
+GEM,Georgia,E00698,True,True,False,False,True,True
+GEM,Georgia,E02818,False,False,False,False,False,True
+GEM,Georgia,E02825,True,True,False,False,False,False
+GEM,Georgia,E05367,True,True,False,False,True,False
+GEM,Georgia,E09117,False,False,False,False,True,True
+GEM,Georgia,E04883,False,False,False,False,True,True
+GEM,Georgia,E00833,True,True,False,False,False,False
+GEM,Georgia,E00870,False,False,False,False,True,True
+GEM,Georgia,E08603,True,True,False,False,False,False
+GEM,Georgia,E08495,False,False,False,False,True,True
+GEM,Georgia,E08211,True,True,False,False,False,False
+GEM,Georgia,E07250,False,False,False,False,False,False
+GEM,Georgia,E04675,False,False,False,False,False,True
+GEM,Georgia,E08218,True,True,False,False,False,False
+GEM,Georgia,E03115,True,True,False,False,False,False
+GEM,Georgia,E08287,False,False,False,False,True,True
+GEM,Georgia,E02560,False,False,False,False,True,True
+GEM,Georgia,E07825,True,True,False,False,False,False
+GEM,Georgia,E09002,True,True,False,False,False,False
+GEM,Georgia,E03022,False,False,False,False,True,True
+GEM,Georgia,E07631,False,False,False,False,False,False
+GEM,Georgia,E04179,True,True,False,False,False,False
+GEM,Georgia,E07752,False,False,False,False,False,False
+GEM,Georgia,E05605,False,False,False,False,True,True
+GEM,Georgia,E05380,True,True,False,False,False,False
+GEM,Georgia,E08895,True,True,False,False,False,False
+GEM,Georgia,E00345,True,True,False,False,False,False
+GEM,Georgia,E03288,False,False,False,False,True,True
+GEM,Georgia,E04928,True,True,False,False,False,False
+GEM,Georgia,E08841,False,False,False,False,True,True
+GEM,Georgia,E07775,True,True,False,False,False,False
+GEM,Georgia,E01658,False,False,False,False,False,True
+GEM,Georgia,E07011,False,False,False,False,False,False
+GEM,Georgia,E02602,False,False,False,False,False,False
+GEM,Georgia,E04693,False,False,False,False,False,False
+GEM,Georgia,E03448,False,False,False,False,True,True
+GEM,Georgia,E02951,False,False,False,False,True,True
+GEM,Georgia,E06186,True,True,False,False,False,False
+GEM,Georgia,E06780,False,False,False,False,True,True
+GEM,Georgia,E08050,False,False,False,False,False,False
+GEM,Georgia,E04424,True,True,False,False,False,False
+GEM,Georgia,E09256,False,False,False,False,False,True
+GEM,Georgia,E07687,True,True,False,False,False,False
+GEM,Georgia,E00343,True,True,False,False,False,False
+GEM,Georgia,E10069,True,True,False,False,False,False
+GEM,Georgia,E09003,True,True,False,False,True,True
+GEM,Georgia,E05799,True,True,False,False,False,False
+GEM,Georgia,E03464,True,True,False,False,False,False
+GEM,Georgia,E08080,True,True,False,False,False,False
+GEM,Georgia,E07215,False,False,False,False,False,False
+GEM,Georgia,E04807,False,False,False,False,False,False
+GEM,Georgia,E09975,True,True,False,False,True,True
+GEM,Georgia,E08290,True,True,False,False,False,False
+GEM,Georgia,E01641,False,False,False,False,False,True
+GEM,Georgia,E02418,True,True,False,False,False,False
+GEM,Georgia,E03047,False,False,False,False,False,False
+GEM,Georgia,E07966,True,True,False,False,False,False
+GEM,Georgia,E00304,True,True,False,False,False,False
+GEM,Georgia,E09212,False,False,False,False,False,False
+GEM,Georgia,E02400,True,True,False,False,False,False
+GEM,Georgia,E02308,False,False,False,False,True,True
+GEM,Georgia,E08167,True,True,False,False,False,False
+GEM,Georgia,E05638,True,True,False,False,False,False
+GEM,Georgia,E07530,False,False,False,False,False,False
+GEM,Georgia,E03294,False,False,False,False,False,False
+GEM,Georgia,E01042,False,False,False,False,True,True
+GEM,Georgia,E04419,False,False,False,False,True,True
+GEM,Georgia,E03163,False,False,False,False,False,True
+GEM,Georgia,E01933,False,False,False,False,True,True
+GEM,Georgia,E08994,False,False,False,False,True,True
+GEM,Georgia,E08462,True,True,False,False,False,False
+GEM,Georgia,E07177,False,False,False,False,False,True
+GEM,Georgia,E07051,False,False,False,False,False,True
+GEM,Georgia,E05527,False,False,False,False,False,False
+GEM,Georgia,E00674,True,True,False,False,True,True
+GEM,Georgia,E05231,True,True,False,False,False,False
+GEM,Georgia,E04706,False,False,False,False,True,True
+GEM,Georgia,E09912,True,True,False,False,False,False
+GEM,Georgia,E01461,False,False,False,False,False,False
+GEM,Georgia,E07550,True,True,False,False,True,True
+GEM,Georgia,E04453,True,True,False,False,False,False
+GEM,Georgia,E08004,True,True,False,False,False,False
+GEM,Georgia,E01677,False,False,False,False,True,True
+GEM,Georgia,E08607,False,False,False,False,True,True
+GEM,Georgia,E00039,False,False,False,False,True,True
+GEM,Georgia,E07132,True,True,False,False,False,False
+GEM,Georgia,E08556,False,False,False,False,True,True
+GEM,Georgia,E08354,True,True,False,False,False,False
+GEM,Georgia,E09972,False,False,False,False,False,False
+GEM,Georgia,E02155,False,False,False,False,False,False
+GEM,Georgia,E03995,False,False,False,False,False,False
+GEM,Georgia,E03013,True,True,False,False,False,False
+GEM,Georgia,E07480,False,False,False,False,False,False
+GEM,Georgia,E00046,True,False,True,False,False,False
+GEM,Georgia,E09879,True,True,False,False,False,False
+GEM,Georgia,E08695,False,False,False,False,True,True
+GEM,Georgia reciprocal,E07209,True,True,False,False,False,False
+GEM,Georgia reciprocal,E09992,True,True,False,False,False,False
+GEM,Georgia reciprocal,E05712,True,True,False,False,False,False
+GEM,Georgia reciprocal,E02514,False,False,False,False,True,True
+GEM,Georgia reciprocal,E04403,True,True,False,False,False,False
+GEM,Georgia reciprocal,E03444,False,False,False,False,True,True
+GEM,Georgia reciprocal,E01506,True,True,False,False,False,False
+GEM,Georgia reciprocal,E08267,False,False,False,False,True,True
+GEM,Georgia reciprocal,E04529,True,True,False,False,False,False
+GEM,Georgia reciprocal,E09634,True,True,False,False,False,False
+GEM,Georgia reciprocal,E04919,True,True,False,False,False,False
+GEM,Georgia reciprocal,E02759,False,False,False,False,True,True
+GEM,Georgia reciprocal,E01617,True,True,False,False,False,False
+GEM,Georgia reciprocal,E03146,True,True,False,False,False,False
+GEM,Georgia reciprocal,E06211,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07271,True,True,False,False,False,False
+GEM,Georgia reciprocal,E01562,True,True,False,False,False,False
+GEM,Georgia reciprocal,E08763,True,True,False,False,False,False
+GEM,Georgia reciprocal,E09976,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07055,False,False,False,False,False,False
+GEM,Georgia reciprocal,E03979,True,True,False,False,True,True
+GEM,Georgia reciprocal,E08489,False,False,False,False,True,True
+GEM,Georgia reciprocal,E07626,True,True,False,False,False,False
+GEM,Georgia reciprocal,E08014,True,True,False,False,False,False
+GEM,Georgia reciprocal,E06043,True,False,True,False,True,True
+GEM,Georgia reciprocal,E06878,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07632,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07929,True,True,False,False,False,False
+GEM,Georgia reciprocal,E00805,True,True,False,False,False,False
+GEM,Georgia reciprocal,E00359,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07574,True,True,False,False,False,False
+GEM,Georgia reciprocal,E03668,False,False,False,False,True,True
+GEM,Georgia reciprocal,E01196,False,False,False,False,False,False
+GEM,Georgia reciprocal,E08768,False,False,False,False,False,False
+GEM,Georgia reciprocal,E05651,False,False,False,False,False,False
+GEM,Georgia reciprocal,E06668,False,False,False,False,False,False
+GEM,Georgia reciprocal,E04718,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07372,True,True,False,False,True,True
+GEM,Georgia reciprocal,E08923,True,True,False,False,True,False
+GEM,Georgia reciprocal,E00290,True,True,False,False,False,False
+GEM,Georgia reciprocal,E00533,True,True,False,False,False,False
+GEM,Georgia reciprocal,E03309,True,True,False,False,True,True
+GEM,Georgia reciprocal,E08349,False,False,False,False,True,True
+GEM,Georgia reciprocal,E07518,True,True,False,False,False,False
+GEM,Georgia reciprocal,E02787,True,True,False,False,False,False
+GEM,Georgia reciprocal,E08280,True,True,False,False,False,False
+GEM,Georgia reciprocal,E10008,True,True,False,False,True,False
+GEM,Georgia reciprocal,E09360,False,False,False,False,True,True
+GEM,Georgia reciprocal,E08235,False,False,False,False,False,False
+GEM,Georgia reciprocal,E00253,True,True,False,False,False,False
+GEM,Georgia reciprocal,E00698,True,True,False,False,False,False
+GEM,Georgia reciprocal,E02818,False,False,False,False,True,False
+GEM,Georgia reciprocal,E02825,True,True,False,False,False,False
+GEM,Georgia reciprocal,E05367,True,True,False,False,True,True
+GEM,Georgia reciprocal,E09117,True,True,False,False,False,False
+GEM,Georgia reciprocal,E04883,False,False,False,False,False,False
+GEM,Georgia reciprocal,E00833,True,True,False,False,False,False
+GEM,Georgia reciprocal,E00870,False,False,False,False,False,False
+GEM,Georgia reciprocal,E08603,True,True,False,False,True,True
+GEM,Georgia reciprocal,E08495,False,False,False,False,False,False
+GEM,Georgia reciprocal,E08211,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07250,True,True,False,False,False,False
+GEM,Georgia reciprocal,E04675,False,False,False,False,False,False
+GEM,Georgia reciprocal,E08218,True,True,False,False,True,True
+GEM,Georgia reciprocal,E03115,False,False,False,False,True,True
+GEM,Georgia reciprocal,E08287,False,False,False,False,False,False
+GEM,Georgia reciprocal,E02560,False,False,False,False,True,True
+GEM,Georgia reciprocal,E07825,True,True,False,False,False,False
+GEM,Georgia reciprocal,E09002,False,False,False,False,True,True
+GEM,Georgia reciprocal,E03022,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07631,False,False,False,False,False,False
+GEM,Georgia reciprocal,E04179,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07752,True,True,False,False,False,False
+GEM,Georgia reciprocal,E05605,True,True,False,False,False,False
+GEM,Georgia reciprocal,E05380,True,True,False,False,False,False
+GEM,Georgia reciprocal,E08895,True,True,False,False,False,False
+GEM,Georgia reciprocal,E00345,False,False,False,False,True,True
+GEM,Georgia reciprocal,E03288,True,True,False,False,False,True
+GEM,Georgia reciprocal,E04928,True,True,False,False,False,False
+GEM,Georgia reciprocal,E08841,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07775,True,True,False,False,False,False
+GEM,Georgia reciprocal,E01658,False,False,False,False,True,False
+GEM,Georgia reciprocal,E07011,False,False,False,False,True,True
+GEM,Georgia reciprocal,E02602,True,True,False,False,False,False
+GEM,Georgia reciprocal,E04693,True,True,False,False,False,False
+GEM,Georgia reciprocal,E03448,False,False,False,False,False,False
+GEM,Georgia reciprocal,E02951,True,True,False,False,False,False
+GEM,Georgia reciprocal,E06186,True,True,False,False,False,False
+GEM,Georgia reciprocal,E06780,False,False,False,False,True,False
+GEM,Georgia reciprocal,E08050,True,True,False,False,False,False
+GEM,Georgia reciprocal,E04424,True,True,False,False,False,False
+GEM,Georgia reciprocal,E09256,False,False,False,False,False,False
+GEM,Georgia reciprocal,E07687,True,True,False,False,False,False
+GEM,Georgia reciprocal,E00343,True,True,False,False,False,False
+GEM,Georgia reciprocal,E10069,False,False,False,False,True,True
+GEM,Georgia reciprocal,E09003,False,False,False,False,True,True
+GEM,Georgia reciprocal,E05799,False,False,False,False,False,False
+GEM,Georgia reciprocal,E03464,True,True,False,False,False,False
+GEM,Georgia reciprocal,E08080,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07215,True,True,False,False,False,False
+GEM,Georgia reciprocal,E09975,False,False,False,False,False,False
+GEM,Georgia reciprocal,E08290,True,True,False,False,False,False
+GEM,Georgia reciprocal,E01641,True,True,False,False,False,False
+GEM,Georgia reciprocal,E02418,False,False,False,False,False,False
+GEM,Georgia reciprocal,E03047,False,False,False,False,False,False
+GEM,Georgia reciprocal,E07966,True,True,False,False,False,False
+GEM,Georgia reciprocal,E00304,True,True,False,False,False,False
+GEM,Georgia reciprocal,E09212,True,True,False,False,False,False
+GEM,Georgia reciprocal,E02400,True,True,False,False,False,False
+GEM,Georgia reciprocal,E02308,True,True,False,False,False,False
+GEM,Georgia reciprocal,E08167,True,True,False,False,False,False
+GEM,Georgia reciprocal,E05638,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07530,False,False,False,False,False,False
+GEM,Georgia reciprocal,E03294,True,True,False,False,False,False
+GEM,Georgia reciprocal,E01042,True,True,False,False,False,False
+GEM,Georgia reciprocal,E04419,True,True,False,False,False,False
+GEM,Georgia reciprocal,E03163,True,True,False,False,False,False
+GEM,Georgia reciprocal,E01933,True,True,False,False,False,False
+GEM,Georgia reciprocal,E08994,True,True,False,False,True,True
+GEM,Georgia reciprocal,E08462,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07177,False,False,False,False,True,True
+GEM,Georgia reciprocal,E07051,False,False,False,False,True,True
+GEM,Georgia reciprocal,E05527,True,True,False,False,True,True
+GEM,Georgia reciprocal,E00674,False,False,False,False,False,False
+GEM,Georgia reciprocal,E05231,True,True,False,False,False,False
+GEM,Georgia reciprocal,E04706,True,True,False,False,False,False
+GEM,Georgia reciprocal,E09912,False,False,False,False,True,True
+GEM,Georgia reciprocal,E01461,False,False,False,False,True,True
+GEM,Georgia reciprocal,E07550,True,True,False,False,False,False
+GEM,Georgia reciprocal,E04453,True,True,False,False,False,False
+GEM,Georgia reciprocal,E08004,True,True,False,False,False,False
+GEM,Georgia reciprocal,E01677,True,True,False,False,False,False
+GEM,Georgia reciprocal,E08607,True,True,False,False,False,False
+GEM,Georgia reciprocal,E00039,False,False,False,False,True,True
+GEM,Georgia reciprocal,E07132,False,False,False,False,True,True
+GEM,Georgia reciprocal,E08556,False,False,False,False,True,True
+GEM,Georgia reciprocal,E08354,True,True,False,False,False,False
+GEM,Georgia reciprocal,E09972,False,False,False,False,True,True
+GEM,Georgia reciprocal,E02155,True,True,False,False,False,False
+GEM,Georgia reciprocal,E03995,True,True,False,False,False,False
+GEM,Georgia reciprocal,E03013,True,True,False,False,False,False
+GEM,Georgia reciprocal,E07480,True,True,False,False,False,False
+GEM,Georgia reciprocal,E00046,False,False,False,False,True,True
+GEM,Georgia reciprocal,E09879,False,False,False,False,False,False
+GEM,Georgia reciprocal,E08695,True,True,False,False,False,False
+PULSE,PTB-XL,15737,True,True,False,False,False,False
+PULSE,PTB-XL,12711,False,False,False,False,False,False
+PULSE,PTB-XL,21177,True,True,False,False,False,False
+PULSE,PTB-XL,7597,True,True,False,False,False,False
+PULSE,PTB-XL,7170,True,True,False,False,False,False
+PULSE,PTB-XL,12475,True,True,False,False,False,False
+PULSE,PTB-XL,5743,True,False,True,False,False,False
+PULSE,PTB-XL,9164,True,False,True,False,False,False
+PULSE,PTB-XL,11364,True,True,False,False,False,False
+PULSE,PTB-XL,3043,True,True,False,False,False,False
+PULSE,PTB-XL,10970,True,True,False,False,False,False
+PULSE,PTB-XL,6341,True,True,False,False,False,False
+PULSE,PTB-XL,11884,True,True,False,False,False,False
+PULSE,PTB-XL,18367,True,True,False,False,False,False
+PULSE,PTB-XL,1700,True,True,False,False,False,False
+PULSE,PTB-XL,13717,True,True,False,False,False,False
+PULSE,PTB-XL,20023,True,True,False,False,False,False
+PULSE,PTB-XL,3537,True,True,False,False,False,False
+PULSE,PTB-XL,15461,True,False,True,False,False,False
+PULSE,PTB-XL,15090,True,False,True,False,False,False
+PULSE,PTB-XL,15094,True,True,False,False,False,False
+PULSE,PTB-XL,10268,False,False,False,False,False,False
+PULSE,PTB-XL,13879,True,True,False,False,False,False
+PULSE,PTB-XL,12529,True,True,False,False,False,False
+PULSE,PTB-XL,12199,True,True,False,False,False,False
+PULSE,PTB-XL,21036,True,True,False,False,False,False
+PULSE,PTB-XL,3159,True,True,False,False,False,False
+PULSE,PTB-XL,1031,True,True,False,False,False,False
+PULSE,PTB-XL,1054,False,False,False,False,False,False
+PULSE,PTB-XL,18068,True,True,False,False,False,False
+PULSE,PTB-XL,20402,True,False,True,False,False,False
+PULSE,PTB-XL,17547,True,True,False,False,False,False
+PULSE,PTB-XL,12619,False,False,False,False,False,False
+PULSE,PTB-XL,5914,True,True,False,False,False,False
+PULSE,PTB-XL,1938,False,False,False,False,False,False
+PULSE,PTB-XL,14938,False,False,False,False,False,False
+PULSE,PTB-XL,3164,True,True,False,False,False,False
+PULSE,PTB-XL,19466,True,True,False,False,False,False
+PULSE,PTB-XL,1589,False,False,False,False,False,False
+PULSE,PTB-XL,13400,True,True,False,False,False,False
+PULSE,PTB-XL,10143,True,True,False,False,False,False
+PULSE,PTB-XL,13268,True,True,False,False,False,False
+PULSE,PTB-XL,17511,True,True,False,False,False,False
+PULSE,PTB-XL,20603,False,False,False,False,False,False
+PULSE,PTB-XL,6670,True,True,False,False,False,False
+PULSE,PTB-XL,18882,True,True,False,False,False,False
+PULSE,PTB-XL,18802,False,False,False,False,False,False
+PULSE,PTB-XL,8963,True,False,True,False,False,False
+PULSE,PTB-XL,3103,True,True,False,False,False,False
+PULSE,PTB-XL,17577,True,True,False,False,False,False
+PULSE,PTB-XL,1078,True,True,False,False,False,False
+PULSE,PTB-XL,14170,True,True,False,False,False,False
+PULSE,PTB-XL,10250,True,True,False,False,False,False
+PULSE,PTB-XL,14613,True,True,False,False,False,False
+PULSE,PTB-XL,18656,True,True,False,False,False,False
+PULSE,PTB-XL,10691,True,True,False,False,False,False
+PULSE,PTB-XL,19042,False,False,False,False,False,False
+PULSE,PTB-XL,14814,True,True,False,False,False,False
+PULSE,PTB-XL,11489,True,True,False,False,False,False
+PULSE,PTB-XL,19293,True,True,False,False,False,False
+PULSE,PTB-XL,10029,True,True,False,False,False,False
+PULSE,PTB-XL,16187,True,True,False,False,False,False
+PULSE,PTB-XL,4747,True,True,False,False,False,False
+PULSE,PTB-XL,19929,False,False,False,False,False,False
+PULSE,PTB-XL,10731,True,True,False,False,False,False
+PULSE,PTB-XL,1186,True,True,False,False,False,False
+PULSE,PTB-XL,16542,True,True,False,False,False,False
+PULSE,PTB-XL,16499,True,True,False,False,False,False
+PULSE,PTB-XL,15988,True,True,False,False,False,False
+PULSE,PTB-XL,3984,False,False,False,False,False,False
+PULSE,PTB-XL,2560,True,True,False,False,False,False
+PULSE,PTB-XL,18200,True,False,True,False,False,False
+PULSE,PTB-XL,9994,True,True,False,False,False,False
+PULSE,PTB-XL,7793,True,True,False,False,False,False
+PULSE,PTB-XL,14746,True,True,False,False,False,False
+PULSE,PTB-XL,1287,True,True,False,False,False,False
+PULSE,PTB-XL,15575,True,True,False,False,False,False
+PULSE,PTB-XL,20037,True,True,False,False,False,False
+PULSE,PTB-XL,1835,True,False,True,False,False,False
+PULSE,PTB-XL,17731,True,True,False,False,False,False
+PULSE,PTB-XL,18134,True,True,False,False,False,False
+PULSE,PTB-XL,19853,True,True,False,False,False,False
+PULSE,PTB-XL,10206,True,True,False,False,False,False
+PULSE,PTB-XL,13282,True,False,True,False,False,False
+PULSE,PTB-XL,7323,True,True,False,False,False,False
+PULSE,PTB-XL,16993,True,True,False,False,False,False
+PULSE,PTB-XL,8538,True,True,False,False,False,False
+PULSE,PTB-XL,12480,True,True,False,False,False,False
+PULSE,PTB-XL,7034,True,True,False,False,False,False
+PULSE,PTB-XL,13398,True,True,False,False,False,False
+PULSE,PTB-XL,10327,True,True,False,False,False,False
+PULSE,PTB-XL,17661,True,True,False,False,False,False
+PULSE,PTB-XL,10272,False,False,False,False,False,False
+PULSE,PTB-XL,12999,True,True,False,False,False,False
+PULSE,PTB-XL,14138,True,True,False,False,False,False
+PULSE,PTB-XL,19324,True,True,False,False,False,False
+PULSE,PTB-XL,20905,False,False,False,False,False,False
+PULSE,PTB-XL,18673,True,False,False,True,False,False
+PULSE,PTB-XL,18847,True,True,False,False,False,False
+PULSE,PTB-XL,3073,False,False,False,False,False,False
+PULSE,PTB-XL,19432,True,True,False,False,False,False
+PULSE,PTB-XL,10151,True,True,False,False,False,False
+PULSE,PTB-XL,12925,True,True,False,False,False,False
+PULSE,PTB-XL,10484,True,True,False,False,False,False
+PULSE,PTB-XL,1479,False,False,False,False,False,False
+PULSE,PTB-XL,19942,True,True,False,False,False,False
+PULSE,PTB-XL,12336,True,True,False,False,False,False
+PULSE,PTB-XL,14976,True,True,False,False,False,False
+PULSE,PTB-XL,917,True,True,False,False,False,False
+PULSE,PTB-XL,10215,True,True,False,False,False,False
+PULSE,PTB-XL,361,True,True,False,False,False,False
+PULSE,PTB-XL,18055,True,True,False,False,False,False
+PULSE,PTB-XL,19350,True,True,False,False,False,False
+PULSE,PTB-XL,15638,True,True,False,False,False,False
+PULSE,PTB-XL,795,True,True,False,False,False,False
+PULSE,PTB-XL,14597,True,True,False,False,False,False
+PULSE,PTB-XL,3235,True,True,False,False,False,False
+PULSE,PTB-XL,19077,True,True,False,False,False,False
+PULSE,PTB-XL,9036,True,True,False,False,False,False
+PULSE,PTB-XL,19867,True,True,False,False,False,False
+PULSE,PTB-XL,9010,True,True,False,False,False,False
+PULSE,PTB-XL,19924,True,True,False,False,False,False
+PULSE,PTB-XL,3060,False,False,False,False,False,False
+PULSE,PTB-XL,13145,True,True,False,False,False,False
+PULSE,PTB-XL,15900,True,True,False,False,False,False
+PULSE,PTB-XL,12348,False,False,False,False,False,False
+PULSE,PTB-XL,7644,True,True,False,False,False,False
+PULSE,PTB-XL,17918,True,True,False,False,False,False
+PULSE,PTB-XL,17780,True,True,False,False,False,False
+PULSE,PTB-XL,13959,True,True,False,False,False,False
+PULSE,PTB-XL,20356,True,True,False,False,False,False
+PULSE,PTB-XL,8254,False,False,False,False,False,False
+PULSE,PTB-XL,17358,True,True,False,False,False,False
+PULSE,PTB-XL,16792,True,True,False,False,False,False
+PULSE,PTB-XL,15930,True,True,False,False,False,False
+PULSE,PTB-XL,12478,True,True,False,False,False,False
+PULSE,PTB-XL,12528,True,True,False,False,False,False
+PULSE,PTB-XL,15674,False,False,False,False,False,False
+PULSE,PTB-XL,14946,True,True,False,False,False,False
+PULSE,PTB-XL,18639,False,False,False,False,False,False
+PULSE,PTB-XL,5067,True,True,False,False,False,False
+PULSE,PTB-XL,13712,True,True,False,False,False,False
+PULSE,PTB-XL,8076,True,True,False,False,False,False
+PULSE,PTB-XL,10990,True,True,False,False,False,False
+PULSE,PTB-XL,15898,True,True,False,False,False,False
+PULSE,PTB-XL,1870,True,True,False,False,False,False
+PULSE,PTB-XL,13993,True,True,False,False,False,False
+PULSE,PTB-XL,12451,False,False,False,False,False,False
+PULSE,PTB-XL,14662,True,True,False,False,False,False
+PULSE,PTB-XL,4261,True,True,False,False,False,False
+PULSE,PTB-XL,11182,True,True,False,False,False,False
+PULSE,PTB-XL,17891,True,True,False,False,False,False
+PULSE,PTB-XL,6131,True,True,False,False,False,False
+PULSE,PTB-XL,7007,True,True,False,False,False,False
+PULSE,PTB-XL,14149,True,True,False,False,False,False
+PULSE,PTB-XL,3112,True,True,False,False,False,False
+PULSE,PTB-XL,12376,True,True,False,False,False,False
+PULSE,PTB-XL,14356,True,True,False,False,False,False
+PULSE,PTB-XL,18232,True,True,False,False,False,False
+PULSE,PTB-XL,9952,True,True,False,False,False,False
+PULSE,PTB-XL,13035,True,True,False,False,False,False
+PULSE,PTB-XL,18661,True,True,False,False,False,False
+PULSE,PTB-XL,11077,True,True,False,False,False,False
+PULSE,PTB-XL,16150,False,False,False,False,False,False
+PULSE,PTB-XL,10585,False,False,False,False,False,False
+PULSE,PTB-XL,12607,False,False,False,False,False,False
+PULSE,PTB-XL,18982,True,True,False,False,False,False
+PULSE,PTB-XL,911,True,True,False,False,False,False
+PULSE,PTB-XL,20241,True,True,False,False,False,False
+PULSE,PTB-XL,10358,True,True,False,False,False,False
+PULSE,PTB-XL,16261,True,True,False,False,False,False
+PULSE,PTB-XL,12699,True,True,False,False,False,False
+PULSE,PTB-XL,12886,True,True,False,False,False,False
+PULSE,PTB-XL,20671,True,True,False,False,False,False
+PULSE,PTB-XL,16024,True,True,False,False,False,False
+PULSE,PTB-XL,12345,True,True,False,False,False,False
+PULSE,PTB-XL,16780,True,True,False,False,False,False
+PULSE,PTB-XL,18612,True,True,False,False,False,False
+PULSE,PTB-XL,13971,True,True,False,False,False,False
+PULSE,PTB-XL,14027,True,True,False,False,False,False
+PULSE,PTB-XL,3986,True,True,False,False,False,False
+PULSE,PTB-XL,20220,True,True,False,False,False,False
+PULSE,PTB-XL,15959,True,True,False,False,False,False
+PULSE,PTB-XL,8170,True,True,False,False,False,False
+PULSE,PTB-XL,1860,True,True,False,False,False,False
+PULSE,PTB-XL,3521,False,False,False,False,False,False
+PULSE,PTB-XL,18175,True,True,False,False,False,False
+PULSE,PTB-XL,10847,True,False,True,False,False,False
+PULSE,PTB-XL,334,True,True,False,False,False,False
+PULSE,PTB-XL,19981,False,False,False,False,False,False
+PULSE,PTB-XL,2203,True,True,False,False,False,False
+PULSE,PTB-XL,18111,True,True,False,False,False,False
+PULSE,PTB-XL,11933,True,True,False,False,False,False
+PULSE,PTB-XL,15803,False,False,False,False,False,False
+PULSE,PTB-XL,5725,True,True,False,False,False,False
+PULSE,PTB-XL,20198,True,True,False,False,False,False
+PULSE,PTB-XL,1351,True,True,False,False,False,False
+PULSE,PTB-XL,14620,True,True,False,False,False,False
+PULSE,PTB-XL,10141,False,False,False,False,False,False
+PULSE,PTB-XL,17865,True,True,False,False,False,False
+PULSE,PTB-XL,20576,True,True,False,False,False,False
+PULSE,PTB-XL,10589,True,True,False,False,False,False
+PULSE,PTB-XL,3756,False,False,False,False,False,False
+PULSE,PTB-XL,17525,True,True,False,False,False,False
+PULSE,PTB-XL,2785,True,True,False,False,False,False
+PULSE,PTB-XL,12144,True,True,False,False,False,False
+PULSE,PTB-XL,16534,True,True,False,False,False,False
+PULSE,PTB-XL,764,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,20023,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,10250,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,9952,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,20037,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,19350,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,17891,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,1870,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,19929,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,3521,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,9036,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,7007,True,False,False,True,False,False
+PULSE,PTB-XL reciprocal,20402,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,18055,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,19432,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,6131,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,17918,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,14746,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,16024,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,18656,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,16542,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,15900,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,18661,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,20905,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,16150,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,11933,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,1031,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,14976,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,17511,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,11884,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,12348,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,8963,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,12451,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,18367,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,2560,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,17525,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,7170,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,7793,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,20603,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,3537,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,19867,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,12144,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,3164,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,18847,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,3103,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,21177,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,795,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,12619,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,20576,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,15094,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,19942,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,3159,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,1186,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,15575,True,False,True,False,False,False
+PULSE,PTB-XL reciprocal,17661,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,13717,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,19293,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,3043,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,20671,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,911,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,334,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,18802,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,9164,True,False,True,False,False,False
+PULSE,PTB-XL reciprocal,19466,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,3112,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,17358,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,12607,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,14613,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,14356,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,18200,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,4261,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,17731,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,18639,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,13993,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,7323,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,8170,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,6670,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,1938,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,12475,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,10484,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,10589,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,18175,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,21036,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,15674,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,14662,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,1078,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,3986,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,17577,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,10143,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,10151,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,3060,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,13712,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,12699,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,5067,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,2203,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,11489,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,16261,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,18111,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,8254,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,16780,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,12925,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,5725,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,4747,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,20356,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,14027,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,13398,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,11077,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,1860,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,10847,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,10585,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,12999,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,19853,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,15638,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,14620,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,10691,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,16993,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,10215,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,16187,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,10272,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,13282,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,13971,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,3073,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,15930,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,12528,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,12336,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,20220,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,13400,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,11182,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,5743,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,7034,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,3235,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,12886,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,8538,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,15959,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,12478,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,16499,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,14814,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,15737,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,19077,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,1835,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,10990,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,1054,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,15803,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,14170,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,14597,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,14946,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,7597,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,10970,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,17780,True,False,True,False,False,False
+PULSE,PTB-XL reciprocal,18612,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,2785,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,8076,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,1287,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,10268,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,13145,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,18232,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,917,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,18673,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,10141,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,11364,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,17547,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,3984,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,3756,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,19981,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,361,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,13035,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,19324,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,19042,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,15988,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,10731,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,17865,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,13879,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,9010,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,7644,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,18882,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,18982,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,12199,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,10327,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,6341,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,12376,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,10029,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,1589,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,16792,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,18068,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,20241,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,15461,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,13959,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,19924,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,14149,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,10206,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,12529,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,13268,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,12345,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,20198,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,15090,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,1479,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,5914,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,1700,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,1351,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,14138,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,764,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,12480,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,16534,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,18134,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,9994,True,True,False,False,False,False
+PULSE,PTB-XL reciprocal,14938,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,15898,False,False,False,False,False,False
+PULSE,PTB-XL reciprocal,10358,True,True,False,False,False,False
+PULSE,Georgia,E07209,True,True,False,False,False,False
+PULSE,Georgia,E09992,True,True,False,False,False,False
+PULSE,Georgia,E05712,True,True,False,False,False,False
+PULSE,Georgia,E02514,True,True,False,False,False,False
+PULSE,Georgia,E04403,True,True,False,False,False,False
+PULSE,Georgia,E03444,True,True,False,False,False,False
+PULSE,Georgia,E01506,True,True,False,False,False,False
+PULSE,Georgia,E08267,True,True,False,False,False,False
+PULSE,Georgia,E04529,True,True,False,False,False,False
+PULSE,Georgia,E09634,True,True,False,False,False,False
+PULSE,Georgia,E04919,True,True,False,False,False,False
+PULSE,Georgia,E02759,True,True,False,False,False,False
+PULSE,Georgia,E01617,True,True,False,False,False,False
+PULSE,Georgia,E03146,True,True,False,False,False,False
+PULSE,Georgia,E06211,True,True,False,False,False,False
+PULSE,Georgia,E07271,True,True,False,False,False,False
+PULSE,Georgia,E08763,True,True,False,False,False,False
+PULSE,Georgia,E09976,True,True,False,False,False,False
+PULSE,Georgia,E07055,False,False,False,False,False,False
+PULSE,Georgia,E03979,True,True,False,False,False,False
+PULSE,Georgia,E08489,False,False,False,False,False,False
+PULSE,Georgia,E07626,True,True,False,False,False,False
+PULSE,Georgia,E08014,False,False,False,False,False,False
+PULSE,Georgia,E06043,True,True,False,False,False,False
+PULSE,Georgia,E06878,True,True,False,False,False,False
+PULSE,Georgia,E07632,True,True,False,False,False,False
+PULSE,Georgia,E07929,True,True,False,False,False,False
+PULSE,Georgia,E00805,True,True,False,False,False,False
+PULSE,Georgia,E00359,False,False,False,False,False,False
+PULSE,Georgia,E07574,True,True,False,False,False,False
+PULSE,Georgia,E03668,True,True,False,False,False,False
+PULSE,Georgia,E08768,True,False,True,False,False,False
+PULSE,Georgia,E05651,True,True,False,False,False,False
+PULSE,Georgia,E06668,False,False,False,False,False,False
+PULSE,Georgia,E04718,True,True,False,False,False,False
+PULSE,Georgia,E07372,False,False,False,False,False,False
+PULSE,Georgia,E08923,True,True,False,False,False,False
+PULSE,Georgia,E00290,True,True,False,False,False,False
+PULSE,Georgia,E00533,True,True,False,False,False,False
+PULSE,Georgia,E03309,True,False,True,False,False,False
+PULSE,Georgia,E08349,True,True,False,False,False,False
+PULSE,Georgia,E07518,True,True,False,False,False,False
+PULSE,Georgia,E02787,True,True,False,False,False,False
+PULSE,Georgia,E08280,True,True,False,False,False,False
+PULSE,Georgia,E10008,True,True,False,False,False,False
+PULSE,Georgia,E09360,True,True,False,False,False,False
+PULSE,Georgia,E08235,False,False,False,False,False,False
+PULSE,Georgia,E00253,True,True,False,False,False,False
+PULSE,Georgia,E00698,True,True,False,False,False,False
+PULSE,Georgia,E02818,False,False,False,False,False,False
+PULSE,Georgia,E02825,True,True,False,False,False,False
+PULSE,Georgia,E05367,True,True,False,False,False,False
+PULSE,Georgia,E09117,True,True,False,False,False,False
+PULSE,Georgia,E04883,True,True,False,False,False,False
+PULSE,Georgia,E00833,True,True,False,False,False,False
+PULSE,Georgia,E00870,False,False,False,False,False,False
+PULSE,Georgia,E08603,False,False,False,False,False,False
+PULSE,Georgia,E08495,True,True,False,False,False,False
+PULSE,Georgia,E08211,True,True,False,False,False,False
+PULSE,Georgia,E07250,True,True,False,False,False,False
+PULSE,Georgia,E04675,True,True,False,False,False,False
+PULSE,Georgia,E08218,True,True,False,False,False,False
+PULSE,Georgia,E03115,True,True,False,False,False,False
+PULSE,Georgia,E08287,True,True,False,False,False,False
+PULSE,Georgia,E02560,True,True,False,False,False,False
+PULSE,Georgia,E07825,True,True,False,False,False,False
+PULSE,Georgia,E09002,True,True,False,False,False,False
+PULSE,Georgia,E07631,True,True,False,False,False,False
+PULSE,Georgia,E04179,False,False,False,False,False,False
+PULSE,Georgia,E07752,True,True,False,False,False,False
+PULSE,Georgia,E05605,True,True,False,False,False,False
+PULSE,Georgia,E05380,True,True,False,False,False,False
+PULSE,Georgia,E08895,True,True,False,False,False,False
+PULSE,Georgia,E00345,True,True,False,False,False,False
+PULSE,Georgia,E03288,True,True,False,False,False,False
+PULSE,Georgia,E04928,True,True,False,False,False,False
+PULSE,Georgia,E08841,False,False,False,False,False,False
+PULSE,Georgia,E07775,True,True,False,False,False,False
+PULSE,Georgia,E01658,True,True,False,False,False,False
+PULSE,Georgia,E07011,True,True,False,False,False,False
+PULSE,Georgia,E02602,True,True,False,False,False,False
+PULSE,Georgia,E04693,True,True,False,False,False,False
+PULSE,Georgia,E03448,False,False,False,False,False,False
+PULSE,Georgia,E02951,True,True,False,False,False,False
+PULSE,Georgia,E06186,True,False,True,False,False,False
+PULSE,Georgia,E06780,True,True,False,False,False,False
+PULSE,Georgia,E08050,True,True,False,False,False,False
+PULSE,Georgia,E04424,True,True,False,False,False,False
+PULSE,Georgia,E09256,True,True,False,False,False,False
+PULSE,Georgia,E07687,True,True,False,False,False,False
+PULSE,Georgia,E00343,True,True,False,False,False,False
+PULSE,Georgia,E10069,True,True,False,False,False,False
+PULSE,Georgia,E09003,True,True,False,False,False,False
+PULSE,Georgia,E05799,True,True,False,False,False,False
+PULSE,Georgia,E03464,True,True,False,False,False,False
+PULSE,Georgia,E08080,True,True,False,False,False,False
+PULSE,Georgia,E07215,True,True,False,False,False,False
+PULSE,Georgia,E04807,False,False,False,False,False,False
+PULSE,Georgia,E09975,True,True,False,False,False,False
+PULSE,Georgia,E08290,True,True,False,False,False,False
+PULSE,Georgia,E01641,False,False,False,False,False,False
+PULSE,Georgia,E02418,True,True,False,False,False,False
+PULSE,Georgia,E03047,True,True,False,False,False,False
+PULSE,Georgia,E07966,True,True,False,False,False,False
+PULSE,Georgia,E00304,True,True,False,False,False,False
+PULSE,Georgia,E09212,False,False,False,False,False,False
+PULSE,Georgia,E02400,True,True,False,False,False,False
+PULSE,Georgia,E02308,True,True,False,False,False,False
+PULSE,Georgia,E06781,True,False,True,False,False,False
+PULSE,Georgia,E08167,True,True,False,False,False,False
+PULSE,Georgia,E05638,True,True,False,False,False,False
+PULSE,Georgia,E07530,False,False,False,False,False,False
+PULSE,Georgia,E03294,True,False,True,False,False,False
+PULSE,Georgia,E01042,False,False,False,False,False,False
+PULSE,Georgia,E04419,False,False,False,False,False,False
+PULSE,Georgia,E03163,True,True,False,False,False,False
+PULSE,Georgia,E01933,False,False,False,False,False,False
+PULSE,Georgia,E08994,False,False,False,False,False,False
+PULSE,Georgia,E08462,True,True,False,False,False,False
+PULSE,Georgia,E07177,False,False,False,False,False,False
+PULSE,Georgia,E07051,False,False,False,False,False,False
+PULSE,Georgia,E05527,True,True,False,False,False,False
+PULSE,Georgia,E00674,True,True,False,False,False,False
+PULSE,Georgia,E05231,True,True,False,False,False,False
+PULSE,Georgia,E04706,True,True,False,False,False,False
+PULSE,Georgia,E09912,False,False,False,False,False,False
+PULSE,Georgia,E01461,False,False,False,False,False,False
+PULSE,Georgia,E07550,True,False,True,False,False,False
+PULSE,Georgia,E04453,False,False,False,False,False,False
+PULSE,Georgia,E10170,True,True,False,False,False,False
+PULSE,Georgia,E08004,True,True,False,False,False,False
+PULSE,Georgia,E01677,True,True,False,False,False,False
+PULSE,Georgia,E08607,True,False,True,False,False,False
+PULSE,Georgia,E00039,True,True,False,False,False,False
+PULSE,Georgia,E07132,True,True,False,False,False,False
+PULSE,Georgia,E08556,False,False,False,False,False,False
+PULSE,Georgia,E08354,True,True,False,False,False,False
+PULSE,Georgia,E09972,True,True,False,False,False,False
+PULSE,Georgia,E02155,False,False,False,False,False,False
+PULSE,Georgia,E03995,True,True,False,False,False,False
+PULSE,Georgia,E03013,True,True,False,False,False,False
+PULSE,Georgia,E07480,False,False,False,False,False,False
+PULSE,Georgia,E00046,False,False,False,False,False,False
+PULSE,Georgia,E09879,True,True,False,False,False,False
+PULSE,Georgia,E08695,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E07209,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E09992,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E05712,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E02514,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E04403,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E03444,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E01506,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08267,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E04529,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E09634,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E04919,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E02759,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E01617,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E03146,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E06211,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E07271,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08763,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E09976,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E07055,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E03979,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E08489,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E07626,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08014,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E06043,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E06878,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E07632,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E07929,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E00805,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E00359,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E07574,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E03668,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E08768,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E05651,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E06668,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E04718,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E07372,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E08923,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E00290,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E00533,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E03309,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08349,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E07518,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E02787,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08280,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E10008,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E09360,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E08235,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E00253,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E00698,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E02818,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E02825,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E05367,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E09117,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E04883,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E00833,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E00870,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E08603,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E08495,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08211,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E07250,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E04675,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E08218,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E03115,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E08287,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E02560,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E07825,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E09002,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E07631,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E04179,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E07752,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E05605,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E05380,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08895,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E00345,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E03288,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E04928,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E08841,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E07775,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E01658,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E07011,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E02602,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E04693,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E03448,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E02951,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E06186,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E06780,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08050,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E04424,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E09256,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E07687,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E00343,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E10069,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E09003,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E05799,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E03464,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08080,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E07215,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E09975,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E08290,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E01641,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E02418,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E03047,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E07966,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E00304,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E09212,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E02400,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E02308,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E06781,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08167,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E05638,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E07530,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E03294,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E01042,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E04419,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E03163,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E01933,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08994,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08462,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E07177,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E07051,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E05527,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E00674,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E05231,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E04706,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E09912,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E01461,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E07550,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E04453,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E08004,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E01677,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08607,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E00039,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E07132,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08556,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E08354,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E09972,True,False,True,False,False,False
+PULSE,Georgia reciprocal,E02155,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E03995,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E03013,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E07480,False,False,False,False,False,False
+PULSE,Georgia reciprocal,E00046,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E09879,True,True,False,False,False,False
+PULSE,Georgia reciprocal,E08695,False,False,False,False,False,False
